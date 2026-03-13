@@ -4,10 +4,19 @@ A beginner-friendly, step-by-step data science project built around a Netflix da
 
 ---
 
+## 👋 New Here? Start With This!
+
+> **Not sure where to begin?** Read the complete beginner setup guide first:
+>
+> **➡️ [GETTING_STARTED.md](./GETTING_STARTED.md) — Step-by-step: install Python, set up your editor, and run your first analysis in ~15 minutes**
+
+---
+
 ## 📂 Project Files
 
 | File | Description |
 |------|-------------|
+| `GETTING_STARTED.md` | **Start here** — step-by-step setup guide for absolute beginners |
 | `netflix_top_shows_2023.csv` | Raw dataset — 100 Netflix titles with 14 columns |
 | `netflix_analysis.ipynb` | Jupyter notebook with full step-by-step analysis |
 | `requirements.txt` | Python dependencies |
