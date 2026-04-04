@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Day_of_Week,Month,Is_Weekend,Store,Category,Unit_Price,Units_Sold,Discount_Percent,Discount_Amount,Total_Sales,Customer_Age,Customer_Gender,Payment_Method,Customer_Rating
+1,2023-10-17,Tuesday,10,0,Store_A,Electronics,37206.75,8,5,14882.7,282771.3,26,Male,Cash,3.4
+2,2022-02-02,Wednesday,2,0,Store_A,Clothing,1249.46,17,20,4248.16,16992.66,19,Male,UPI,1.9
+3,2023-08-27,Sunday,8,1,Store_C,Electronics,38060.96,6,25,57091.44,171274.32,45,Female,Debit Card,1.6
+4,2022-12-11,Sunday,12,1,Store_A,Clothing,2023.65,14,30,7285.14,21045.96,40,Female,Cash,3.9
+5,2023-01-23,Monday,1,0,Store_A,Toys,2505.27,20,30,15031.62,35073.78,41,Male,Cash,1.2
+6,2022-08-22,Monday,8,0,Store_C,Clothing,4305.53,4,15,2583.32,14638.8,35,Female,Debit Card,1.7
+7,2022-12-30,Friday,12,0,Store_B,Toys,2135.28,8,20,1281.17,15801.07,58,Male,Credit Card,1.7
+8,2022-10-04,Tuesday,10,0,Store_B,Sports,12689.92,2,5,1268.99,24110.85,70,Male,Debit Card,2.6
+9,2022-03-09,Wednesday,3,0,Store_B,Sports,3425.61,16,15,8221.46,46588.3,59,Female,Credit Card,2.1
+10,2022-09-10,Saturday,9,1,Store_C,Books,1356.95,13,10,1764.04,15876.31,32,Male,UPI,1.4
+11,2022-02-18,Friday,2,0,Store_A,Groceries,1273.52,14,20,3565.86,14263.42,22,Female,UPI,3.4
+12,2023-04-25,Tuesday,4,0,Store_C,Electronics,34174.03,4,25,34174.03,102522.09,52,Female,Debit Card,1.4
+13,2023-03-22,Wednesday,3,0,Store_B,Beauty,162.49,9,20,292.48,1169.93,66,Male,Cash,4.5
+14,2022-11-02,Wednesday,11,0,Store_B,Groceries,779.13,8,20,934.96,5298.08,67,Male,Debit Card,3.0
+15,2023-01-07,Saturday,1,1,Store_C,Furniture,5576.09,19,0,0.0,105945.71,23,Female,Cash,4.9
+16,2023-06-30,Friday,6,0,Store_B,Groceries,1336.51,18,5,1202.86,22854.32,34,Female,Credit Card,4.7
+17,2023-12-08,Friday,12,0,Store_B,Toys,1257.08,14,15,2262.74,15336.38,51,Female,Cash,2.0
+18,2022-12-13,Tuesday,12,0,Store_A,Furniture,47486.77,3,0,0.0,142460.31,63,Male,Credit Card,1.3
+19,2022-12-05,Monday,12,0,Store_A,Furniture,22999.7,20,5,18399.76,441594.24,52,Male,UPI,2.0
+20,2023-02-21,Tuesday,2,0,Store_B,Clothing,665.27,14,10,931.38,8382.4,45,Female,UPI,4.5
+21,2022-02-25,Friday,2,0,Store_A,Electronics,20429.75,11,30,67418.18,157309.07,24,Male,Credit Card,1.8
+22,2023-04-05,Wednesday,4,0,Store_B,Books,356.88,15,5,267.66,5085.54,22,Female,Cash,1.2
+23,2023-07-08,Saturday,7,1,Store_A,Clothing,4646.56,8,5,1858.62,35313.86,44,Female,UPI,1.9
+24,2023-02-15,Wednesday,2,0,Store_A,Groceries,789.0,13,10,1025.7,9231.3,68,Female,Debit Card,2.7
+25,2023-07-24,Monday,7,0,Store_D,Groceries,420.3,7,0,0.0,2942.1,55,Male,Debit Card,1.2
+26,2023-08-22,Tuesday,8,0,Store_D,Groceries,160.92,17,0,0.0,2735.64,29,Male,Cash,3.7
+27,2022-08-29,Monday,8,0,Store_D,Clothing,4719.66,19,5,4483.68,85189.86,55,Male,Cash,2.7
+28,2023-08-21,Monday,8,0,Store_C,Toys,692.35,11,5,380.79,7235.06,34,Female,Credit Card,3.7
+29,2022-11-04,Friday,11,0,Store_D,Sports,13956.57,7,0,0.0,97695.99,47,Male,Cash,3.2
+30,2022-05-16,Monday,5,0,Store_C,Clothing,4420.5,12,10,5304.6,47741.4,28,Female,Debit Card,3.4
+31,2023-11-01,Wednesday,11,0,Store_A,Toys,2802.09,7,5,560.42,19054.21,34,Male,Cash,4.0
+32,2022-10-06,Thursday,10,0,Store_C,Furniture,57691.36,7,25,100959.88,302879.64,58,Female,UPI,2.0
+33,2022-02-22,Tuesday,2,0,Store_A,Books,1261.09,2,0,0.0,2522.18,39,Male,Debit Card,1.6
+34,2023-03-29,Wednesday,3,0,Store_D,Electronics,6037.76,5,20,6037.76,24151.04,20,Female,Credit Card,2.7
+35,2022-02-12,Saturday,2,1,Store_C,Sports,13515.03,2,10,2703.01,24327.05,31,Male,Cash,2.4
+36,2023-07-28,Friday,7,0,Store_D,Groceries,1855.24,8,30,4452.58,10389.34,28,Male,UPI,1.1
+37,2022-12-07,Wednesday,12,0,Store_D,Furniture,22077.65,9,15,13246.59,185452.26,20,Female,Credit Card,1.8
+38,2022-12-25,Sunday,12,1,Store_C,Furniture,18610.96,11,15,19541.51,185179.05,39,Female,Cash,4.9
+39,2022-12-26,Monday,12,0,Store_D,Sports,14106.79,9,10,5642.72,121318.39,29,Female,Cash,1.4
+40,2022-12-20,Tuesday,12,0,Store_C,Books,948.69,20,0,0.0,18973.8,42,Male,Debit Card,1.2
+41,2022-01-02,Sunday,1,1,Store_B,Sports,6640.07,11,20,14608.15,58432.62,38,Male,Debit Card,3.0
+42,2023-11-14,Tuesday,11,0,Store_D,Sports,6215.29,15,20,12430.58,80798.77,26,Male,UPI,3.7
+43,2023-11-25,Saturday,11,1,Store_B,Toys,1277.62,5,10,127.76,6260.34,36,Male,UPI,4.1
+44,2023-04-22,Saturday,4,1,Store_D,Beauty,2751.16,17,15,7015.46,39754.26,68,Male,Cash,2.1
+45,2023-11-11,Saturday,11,1,Store_C,Clothing,4128.43,10,25,8256.86,33027.44,37,Male,Credit Card,1.6
+46,2022-09-08,Thursday,9,0,Store_D,Clothing,2386.0,19,5,2266.7,43067.3,63,Female,UPI,2.6
+47,2022-06-01,Wednesday,6,0,Store_A,Clothing,3936.42,8,5,1574.57,29916.79,69,Female,Cash,3.2
+48,2022-05-05,Thursday,5,0,Store_D,Groceries,1612.76,17,20,5483.38,21933.54,56,Female,UPI,3.5
+49,2023-06-01,Thursday,6,0,Store_D,Beauty,3604.25,16,15,8650.2,49017.8,34,Male,Debit Card,4.1
+50,2023-06-18,Sunday,6,1,Store_D,Furniture,22693.2,3,25,17019.9,51059.7,36,Male,Debit Card,2.3
+51,2023-07-08,Saturday,7,1,Store_A,Groceries,344.12,13,25,1118.39,3355.17,27,Male,Cash,2.7
+52,2022-12-05,Monday,12,0,Store_D,Books,187.17,18,15,393.06,2976.0,67,Male,UPI,2.9
+53,2022-11-02,Wednesday,11,0,Store_D,Books,853.51,20,30,4608.95,12461.25,56,Male,UPI,1.9
+54,2023-05-13,Saturday,5,1,Store_A,Books,570.58,13,25,1854.39,5563.15,28,Female,Credit Card,4.9
+55,2023-07-01,Saturday,7,1,Store_A,Books,928.65,1,0,0.0,928.65,59,Female,Credit Card,4.5
+56,2022-07-06,Wednesday,7,0,Store_A,Toys,1199.4,7,15,1259.37,7136.43,38,Female,UPI,2.1
+57,2023-03-08,Wednesday,3,0,Store_C,Clothing,2457.47,18,0,0.0,44234.46,40,Male,Cash,4.1
+58,2023-10-30,Monday,10,0,Store_A,Electronics,47505.78,7,30,99762.14,232778.32,19,Male,Credit Card,1.5
+59,2023-11-17,Friday,11,0,Store_A,Furniture,37737.68,12,30,101891.74,350960.42,41,Male,Cash,4.1
+60,2022-11-15,Tuesday,11,0,Store_A,Electronics,46479.91,20,25,220779.57,708818.63,42,Female,Credit Card,1.3
+61,2022-04-15,Friday,4,0,Store_C,Clothing,4021.89,19,30,22924.77,53491.14,20,Female,UPI,3.6
+62,2022-03-12,Saturday,3,1,Store_C,Electronics,42553.99,16,0,0.0,680863.84,45,Female,UPI,3.8
+63,2023-03-22,Wednesday,3,0,Store_B,Toys,1886.15,18,30,10185.21,23765.49,48,Female,UPI,4.3
+64,2023-08-30,Wednesday,8,0,Store_C,Sports,12820.18,3,10,3846.05,34614.49,46,Male,UPI,3.3
+65,2023-11-16,Thursday,11,0,Store_D,Sports,721.89,15,5,397.04,10431.31,49,Male,Debit Card,4.2
+66,2022-10-14,Friday,10,0,Store_C,Electronics,26073.05,7,0,0.0,182511.35,33,Female,UPI,3.2
+67,2022-09-04,Sunday,9,1,Store_D,Beauty,1875.47,1,0,0.0,1875.47,36,Male,UPI,3.8
+68,2022-11-10,Thursday,11,0,Store_C,Beauty,2280.87,16,15,4105.57,32388.35,65,Female,Debit Card,3.8
+69,2022-11-10,Thursday,11,0,Store_C,Furniture,10531.81,12,10,7372.27,119009.45,25,Male,Credit Card,1.9
+70,2022-10-11,Tuesday,10,0,Store_C,Clothing,4196.62,10,5,2098.31,39867.89,41,Male,Debit Card,1.1
+71,2023-07-01,Saturday,7,1,Store_B,Toys,232.0,2,20,92.8,371.2,36,Male,UPI,1.4
+72,2022-01-13,Thursday,1,0,Store_C,Beauty,1993.05,11,5,1096.18,20827.37,21,Female,UPI,1.5
+73,2022-03-08,Tuesday,3,0,Store_D,Beauty,435.22,2,5,43.52,826.92,27,Female,Cash,5.0
+74,2022-05-02,Monday,5,0,Store_D,Furniture,62279.79,13,15,121445.59,688191.68,46,Female,UPI,2.2
+75,2023-09-28,Thursday,9,0,Store_A,Clothing,4748.43,7,25,8309.75,24929.26,31,Female,Cash,1.6
+76,2022-06-27,Monday,6,0,Store_A,Groceries,55.22,15,25,207.07,621.23,56,Female,Debit Card,1.1
+77,2022-10-23,Sunday,10,1,Store_C,Beauty,424.04,8,10,339.23,3053.09,68,Male,UPI,1.5
+78,2022-08-19,Friday,8,0,Store_B,Toys,2497.23,3,0,0.0,7491.69,28,Female,Debit Card,2.8
+79,2023-04-25,Tuesday,4,0,Store_C,Books,1419.75,17,20,4827.15,19308.6,49,Female,Cash,3.4
+80,2023-03-19,Sunday,3,1,Store_C,Toys,175.01,8,25,350.02,1050.06,54,Male,Debit Card,3.3
+81,2022-06-29,Wednesday,6,0,Store_D,Beauty,3676.88,6,20,4412.26,17649.02,45,Female,Cash,2.9
+82,2023-02-23,Thursday,2,0,Store_C,Sports,10150.96,6,10,6090.58,54815.18,44,Female,Debit Card,3.7
+83,2023-02-15,Wednesday,2,0,Store_A,Beauty,489.03,9,10,440.13,3961.14,25,Female,Cash,3.6
+84,2023-07-10,Monday,7,0,Store_D,Books,175.89,17,10,299.01,2691.12,57,Female,UPI,4.0
+85,2022-07-28,Thursday,7,0,Store_C,Groceries,1858.96,15,25,6971.1,20913.3,49,Male,Cash,4.9
+86,2023-09-16,Saturday,9,1,Store_B,Groceries,655.96,1,20,131.19,524.77,44,Male,Credit Card,5.0
+87,2022-04-27,Wednesday,4,0,Store_D,Clothing,3309.01,5,15,2481.76,14063.29,63,Female,Debit Card,2.7
+88,2023-05-10,Wednesday,5,0,Store_D,Furniture,37086.13,5,15,27814.6,157616.05,30,Male,Cash,2.1
+89,2023-03-01,Wednesday,3,0,Store_C,Toys,2479.59,10,25,6198.98,18596.92,37,Female,Credit Card,2.8
+90,2023-05-11,Thursday,5,0,Store_C,Sports,8413.19,18,15,22715.61,128721.81,47,Female,Credit Card,4.9
+91,2022-09-02,Friday,9,0,Store_D,Furniture,68625.03,14,0,0.0,960750.42,38,Female,UPI,2.5
+92,2023-11-11,Saturday,11,1,Store_B,Beauty,3864.57,10,20,3864.57,34781.13,55,Female,Cash,4.5
+93,2022-04-13,Wednesday,4,0,Store_D,Electronics,36260.97,14,30,152296.07,355357.51,59,Male,Cash,2.9
+94,2022-09-29,Thursday,9,0,Store_C,Books,1009.77,11,30,3332.24,7775.23,61,Female,Debit Card,3.5
+95,2023-05-15,Monday,5,0,Store_A,Clothing,1326.9,10,5,663.45,12605.55,65,Male,UPI,4.9
+96,2023-10-11,Wednesday,10,0,Store_A,Beauty,790.5,10,0,0.0,7905.0,20,Female,Cash,2.2
+97,2023-01-19,Thursday,1,0,Store_D,Groceries,526.18,14,20,1473.3,5893.22,61,Male,Credit Card,1.7
+98,2023-09-17,Sunday,9,1,Store_D,Furniture,40315.71,19,5,38299.92,727698.57,32,Female,Debit Card,2.8
+99,2023-11-14,Tuesday,11,0,Store_A,Beauty,3619.66,20,5,3257.69,69135.51,22,Female,Debit Card,5.0
+100,2023-10-17,Tuesday,10,0,Store_D,Toys,1424.82,10,5,712.41,13535.79,42,Female,Cash,1.9
+101,2023-08-09,Wednesday,8,0,Store_C,Toys,2978.81,10,0,0.0,29788.1,60,Female,Debit Card,1.0
+102,2023-12-04,Monday,12,0,Store_A,Beauty,3356.43,13,30,10069.29,33564.3,69,Male,Debit Card,1.9
+103,2023-09-28,Thursday,9,0,Store_C,Groceries,1275.08,2,10,255.02,2295.14,68,Female,Cash,3.3
+104,2022-05-15,Sunday,5,1,Store_A,Toys,1047.49,14,5,733.24,13931.62,30,Male,Debit Card,3.1
+105,2022-10-07,Friday,10,0,Store_B,Toys,2750.74,16,30,13203.55,30808.29,36,Female,Cash,2.9
+106,2022-03-19,Saturday,3,1,Store_B,Furniture,68951.11,13,30,268909.33,627455.1,69,Female,Cash,4.2
+107,2022-01-15,Saturday,1,1,Store_C,Clothing,2382.97,9,20,4289.35,17157.38,42,Female,Cash,3.7
+108,2023-04-28,Friday,4,0,Store_A,Sports,13754.26,8,25,27508.52,82525.56,22,Female,Debit Card,3.6
+109,2022-04-30,Saturday,4,1,Store_B,Electronics,47339.95,10,15,71009.93,402389.57,25,Male,Credit Card,4.5
+110,2022-05-19,Thursday,5,0,Store_D,Beauty,1578.39,18,15,4261.65,24149.37,55,Male,UPI,3.6
+111,2023-05-17,Wednesday,5,0,Store_D,Toys,194.88,12,5,116.93,2221.63,46,Female,Credit Card,4.4
+112,2022-04-12,Tuesday,4,0,Store_C,Sports,1190.09,9,5,535.54,10175.27,25,Female,Cash,3.7
+113,2023-10-20,Friday,10,0,Store_A,Electronics,39446.33,8,5,15778.53,299792.11,68,Male,Cash,4.3
+114,2023-07-22,Saturday,7,1,Store_B,Furniture,65231.19,8,10,52184.95,469664.57,67,Male,Cash,2.1
+115,2022-05-29,Sunday,5,1,Store_B,Toys,2415.69,4,25,2415.69,7247.07,19,Male,Cash,2.4
+116,2022-09-01,Thursday,9,0,Store_C,Electronics,9125.19,2,5,912.52,17337.86,65,Female,Cash,4.0
+117,2023-05-03,Wednesday,5,0,Store_D,Sports,7844.6,4,15,4706.76,26671.64,50,Male,Cash,3.9
+118,2023-11-06,Monday,11,0,Store_C,Beauty,2626.86,6,0,0.0,15761.16,48,Female,UPI,3.7
+119,2023-12-31,Sunday,12,1,Store_D,Clothing,4516.48,15,20,9936.26,57810.94,27,Male,Credit Card,2.1
+120,2023-01-26,Thursday,1,0,Store_C,Beauty,2096.37,14,0,0.0,29349.18,68,Male,Credit Card,2.7
+121,2022-08-22,Monday,8,0,Store_D,Sports,12463.06,13,15,24302.97,137716.81,64,Male,Debit Card,2.7
+122,2023-11-13,Monday,11,0,Store_C,Sports,14317.81,20,0,0.0,286356.2,23,Male,Cash,2.7
+123,2022-05-14,Saturday,5,1,Store_A,Sports,10149.19,14,10,14208.87,127879.79,60,Female,Cash,4.9
+124,2023-09-07,Thursday,9,0,Store_C,Sports,1822.93,17,5,1549.49,29440.32,27,Female,Credit Card,4.4
+125,2022-12-25,Sunday,12,1,Store_C,Clothing,3860.51,20,5,3667.48,73542.72,69,Female,Cash,3.4
+126,2022-01-30,Sunday,1,1,Store_B,Toys,2137.83,10,10,2137.83,19240.47,40,Male,Credit Card,4.5
+127,2023-08-03,Thursday,8,0,Store_D,Clothing,881.0,1,0,0.0,881.0,65,Male,UPI,2.7
+128,2022-12-16,Friday,12,0,Store_B,Sports,4881.07,13,30,16107.53,47346.38,54,Male,Cash,1.6
+129,2023-11-22,Wednesday,11,0,Store_A,Toys,1385.03,16,15,2908.56,19251.92,56,Female,UPI,2.1
+130,2022-12-20,Tuesday,12,0,Store_D,Clothing,1559.58,20,15,4444.8,26746.8,51,Female,Cash,1.9
+131,2022-01-08,Saturday,1,1,Store_B,Toys,2841.44,5,30,4262.16,9945.04,34,Female,Debit Card,1.5
+132,2023-05-25,Thursday,5,0,Store_D,Groceries,301.91,18,25,1358.6,4075.78,32,Female,Cash,2.6
+133,2022-02-13,Sunday,2,1,Store_D,Electronics,23257.84,3,30,20932.06,48841.46,38,Female,UPI,3.8
+134,2023-03-04,Saturday,3,1,Store_C,Clothing,2144.16,11,5,1179.29,22406.47,69,Female,Debit Card,1.4
+135,2022-04-19,Tuesday,4,0,Store_B,Books,924.42,17,0,0.0,15715.14,43,Female,Debit Card,1.9
+136,2022-06-22,Wednesday,6,0,Store_A,Clothing,2746.9,7,30,5768.49,13459.81,40,Female,Credit Card,1.9
+137,2022-05-30,Monday,5,0,Store_C,Furniture,14706.42,5,30,22059.63,51472.47,66,Male,Credit Card,4.8
+138,2023-10-06,Friday,10,0,Store_D,Beauty,3054.62,19,15,8705.67,49332.11,61,Female,Debit Card,1.6
+139,2022-03-11,Friday,3,0,Store_D,Beauty,2580.83,9,20,4645.49,18581.98,21,Female,Cash,2.2
+140,2023-04-08,Saturday,4,1,Store_A,Electronics,18752.51,10,0,0.0,187525.1,59,Male,UPI,2.9
+141,2023-07-22,Saturday,7,1,Store_A,Beauty,3649.84,19,25,17336.74,52010.22,30,Female,UPI,3.0
+142,2022-03-05,Saturday,3,1,Store_D,Clothing,4092.64,11,25,11254.76,33764.28,23,Male,Cash,2.0
+143,2023-03-25,Saturday,3,1,Store_D,Groceries,759.6,10,15,1139.4,6456.6,44,Female,Cash,4.2
+144,2023-10-25,Wednesday,10,0,Store_C,Clothing,1782.52,18,25,8021.34,24064.02,42,Female,Debit Card,3.9
+145,2023-11-04,Saturday,11,1,Store_B,Sports,1498.08,7,10,749.04,9737.52,37,Female,Credit Card,3.4
+146,2022-11-14,Monday,11,0,Store_D,Sports,12253.82,20,0,0.0,245076.4,59,Female,Debit Card,1.1
+147,2022-07-04,Monday,7,0,Store_B,Sports,14230.72,16,5,11384.58,216306.94,32,Male,Credit Card,1.3
+148,2022-04-14,Thursday,4,0,Store_A,Sports,13182.97,20,5,13182.97,250476.43,56,Female,Credit Card,1.6
+149,2023-12-11,Monday,12,0,Store_B,Beauty,318.22,17,25,954.66,4455.08,64,Male,UPI,3.4
+150,2022-08-28,Sunday,8,1,Store_B,Toys,2900.23,16,30,13921.1,32482.58,30,Female,UPI,2.8
+151,2022-10-16,Sunday,10,1,Store_D,Books,1452.78,7,30,3050.84,7118.62,56,Male,Debit Card,1.2
+152,2023-05-08,Monday,5,0,Store_C,Clothing,3614.72,17,30,18435.07,43015.17,25,Female,Cash,4.1
+153,2022-10-07,Friday,10,0,Store_D,Groceries,1670.54,3,5,250.58,4761.04,70,Female,Debit Card,4.7
+154,2023-03-01,Wednesday,3,0,Store_A,Books,802.81,8,15,963.37,5459.11,23,Female,Credit Card,1.1
+155,2022-04-12,Tuesday,4,0,Store_C,Groceries,318.32,10,30,954.96,2228.24,48,Male,UPI,2.8
+156,2022-01-06,Thursday,1,0,Store_A,Electronics,13168.23,5,20,13168.23,52672.92,64,Female,Cash,4.1
+157,2022-09-01,Thursday,9,0,Store_C,Clothing,429.2,14,25,1502.2,4506.6,68,Female,Cash,1.4
+158,2023-05-27,Saturday,5,1,Store_A,Furniture,57765.0,10,15,86647.5,491002.5,18,Female,Credit Card,3.3
+159,2022-07-11,Monday,7,0,Store_A,Sports,1294.89,17,20,4402.63,17610.5,50,Male,UPI,4.5
+160,2022-02-14,Monday,2,0,Store_D,Sports,4028.66,1,10,402.87,3625.79,68,Male,Debit Card,2.0
+161,2023-11-04,Saturday,11,1,Store_A,Sports,2261.12,17,20,5426.69,33012.35,39,Male,UPI,4.9
+162,2023-10-09,Monday,10,0,Store_B,Groceries,173.05,15,0,0.0,2595.75,36,Male,Cash,4.2
+163,2022-02-12,Saturday,2,1,Store_C,Toys,1594.61,18,15,4305.45,24397.53,34,Male,Credit Card,2.1
+164,2022-02-18,Friday,2,0,Store_C,Toys,460.98,12,15,829.76,4702.0,43,Female,UPI,2.4
+165,2022-07-11,Monday,7,0,Store_D,Beauty,1564.29,17,10,2659.29,23933.64,69,Male,UPI,1.3
+166,2023-09-09,Saturday,9,1,Store_B,Toys,1031.51,3,10,309.45,2785.08,60,Female,Debit Card,2.8
+167,2023-03-13,Monday,3,0,Store_B,Beauty,1503.46,2,25,751.73,2255.19,40,Female,Debit Card,3.6
+168,2022-02-28,Monday,2,0,Store_A,Books,608.64,6,0,0.0,3651.84,27,Female,Cash,1.5
+169,2022-08-30,Tuesday,8,0,Store_C,Sports,5927.96,19,0,0.0,112631.24,56,Male,UPI,4.8
+170,2023-01-16,Monday,1,0,Store_D,Clothing,2954.82,17,10,5023.19,45208.75,43,Female,Debit Card,2.0
+171,2022-04-27,Wednesday,4,0,Store_A,Groceries,1023.14,13,20,2660.16,10640.66,25,Female,Debit Card,3.8
+172,2022-08-08,Monday,8,0,Store_C,Beauty,920.69,5,30,1381.04,3222.41,22,Female,Credit Card,4.6
+173,2023-04-01,Saturday,4,1,Store_A,Sports,10117.24,3,20,6070.34,24281.38,52,Female,Debit Card,4.4
+174,2023-12-30,Saturday,12,1,Store_B,Sports,7778.71,6,5,1555.74,45116.52,68,Male,Credit Card,4.2
+175,2023-01-05,Thursday,1,0,Store_C,Beauty,3244.1,18,5,2919.69,55474.11,57,Male,Cash,2.2
+176,2023-05-06,Saturday,5,1,Store_D,Books,1252.68,3,5,187.9,3570.14,38,Male,UPI,2.9
+177,2023-06-14,Wednesday,6,0,Store_C,Groceries,1762.02,18,25,7929.09,23787.27,55,Male,Credit Card,2.7
+178,2022-02-26,Saturday,2,1,Store_A,Groceries,643.04,6,10,385.82,3472.42,63,Male,Debit Card,4.8
+179,2023-06-16,Friday,6,0,Store_C,Clothing,1402.91,18,10,2525.24,22727.14,26,Female,Cash,3.0
+180,2022-06-22,Wednesday,6,0,Store_B,Groceries,1334.53,20,10,2669.06,24021.54,54,Male,Cash,1.3
+181,2023-10-19,Thursday,10,0,Store_C,Furniture,61589.76,14,20,172451.33,689805.31,58,Male,UPI,4.6
+182,2023-07-13,Thursday,7,0,Store_C,Toys,1500.54,13,10,1950.7,17556.32,47,Male,Cash,1.6
+183,2023-03-02,Thursday,3,0,Store_D,Beauty,935.49,20,5,935.49,17774.31,38,Female,Debit Card,4.9
+184,2022-05-14,Saturday,5,1,Store_C,Clothing,1731.76,15,0,0.0,25976.4,35,Female,Credit Card,1.6
+185,2022-02-21,Monday,2,0,Store_C,Books,1309.83,14,5,916.88,17420.74,28,Female,Debit Card,1.8
+186,2022-06-13,Monday,6,0,Store_D,Beauty,2070.22,10,15,3105.33,17596.87,19,Male,UPI,3.0
+187,2022-09-04,Sunday,9,1,Store_B,Sports,1015.27,10,15,1522.9,8629.8,56,Female,Debit Card,3.1
+188,2022-04-21,Thursday,4,0,Store_D,Groceries,1770.79,12,30,6374.84,14874.64,43,Female,Cash,2.6
+189,2023-08-07,Monday,8,0,Store_B,Sports,8432.38,3,15,3794.57,21502.57,50,Female,Debit Card,4.3
+190,2023-10-01,Sunday,10,1,Store_A,Groceries,1951.41,13,10,2536.83,22831.5,68,Female,Debit Card,4.0
+191,2022-07-23,Saturday,7,1,Store_D,Electronics,2742.52,5,25,3428.15,10284.45,39,Female,UPI,1.6
+192,2023-06-12,Monday,6,0,Store_B,Sports,13991.12,11,5,7695.12,146207.2,43,Female,Debit Card,3.0
+193,2023-06-06,Tuesday,6,0,Store_D,Toys,1477.19,1,10,147.72,1329.47,39,Male,UPI,3.3
+194,2023-12-06,Wednesday,12,0,Store_A,Beauty,1172.29,20,20,4454.7,18991.1,32,Male,UPI,1.7
+195,2022-06-01,Wednesday,6,0,Store_B,Electronics,28842.23,4,5,5768.45,109600.47,19,Female,Debit Card,2.7
+196,2023-02-27,Monday,2,0,Store_B,Books,802.55,20,15,2407.65,13643.35,65,Male,Credit Card,3.1
+197,2023-07-29,Saturday,7,1,Store_C,Beauty,2173.09,11,5,1195.2,22708.79,47,Female,Debit Card,3.7
+198,2023-11-29,Wednesday,11,0,Store_C,Beauty,890.22,12,10,712.18,9970.46,53,Female,Credit Card,4.8
+199,2022-10-23,Sunday,10,1,Store_B,Beauty,1370.61,12,20,3289.46,13157.86,68,Female,Debit Card,1.5
+200,2023-11-24,Friday,11,0,Store_D,Books,1245.73,10,10,622.87,11834.43,20,Female,Cash,2.4
+201,2023-11-03,Friday,11,0,Store_C,Beauty,973.85,20,10,1752.93,17724.07,53,Female,Credit Card,1.4
+202,2022-09-06,Tuesday,9,0,Store_A,Furniture,51397.62,2,0,0.0,102795.24,44,Female,UPI,1.4
+203,2022-05-21,Saturday,5,1,Store_A,Groceries,843.47,16,15,2024.33,11471.19,59,Male,Debit Card,2.3
+204,2023-10-24,Tuesday,10,0,Store_A,Clothing,3331.03,8,20,5329.65,21318.59,65,Male,Credit Card,2.7
+205,2022-06-30,Thursday,6,0,Store_A,Books,1203.14,6,25,1804.71,5414.13,36,Male,Cash,2.2
+206,2023-09-10,Sunday,9,1,Store_A,Sports,4483.06,18,20,16139.02,64556.06,49,Male,UPI,2.1
+207,2022-04-26,Tuesday,4,0,Store_C,Groceries,1475.68,9,25,3320.28,9960.84,29,Male,Debit Card,4.2
+208,2023-08-05,Saturday,8,1,Store_B,Groceries,1241.36,13,30,4841.3,11296.38,45,Female,Cash,2.6
+209,2022-04-08,Friday,4,0,Store_B,Groceries,981.04,8,0,0.0,7848.32,34,Female,Credit Card,2.8
+210,2022-10-01,Saturday,10,1,Store_C,Toys,1789.14,19,0,0.0,33993.66,34,Female,Credit Card,1.2
+211,2022-05-02,Monday,5,0,Store_D,Toys,563.18,17,25,2393.51,7180.55,67,Female,Cash,3.6
+212,2022-10-30,Sunday,10,1,Store_C,Furniture,18311.16,5,15,13733.37,77822.43,27,Female,Debit Card,2.7
+213,2023-07-17,Monday,7,0,Store_D,Furniture,61186.91,20,30,367121.46,856616.74,68,Male,UPI,3.1
+214,2023-01-06,Friday,1,0,Store_A,Clothing,496.44,18,20,1787.18,7148.74,30,Male,Credit Card,2.3
+215,2023-06-17,Saturday,6,1,Store_D,Clothing,3465.42,19,15,9876.45,55966.53,23,Female,Cash,2.8
+216,2023-06-10,Saturday,6,1,Store_D,Beauty,2321.06,18,15,6266.86,35512.22,61,Female,Cash,2.6
+217,2022-01-04,Tuesday,1,0,Store_B,Clothing,417.39,12,25,1252.17,3756.51,22,Male,Cash,4.9
+218,2023-04-29,Saturday,4,1,Store_A,Toys,1285.71,5,30,1928.57,4499.98,59,Female,Debit Card,5.0
+219,2023-01-27,Friday,1,0,Store_D,Books,625.9,18,5,563.31,10702.89,59,Female,Cash,1.7
+220,2023-07-05,Wednesday,7,0,Store_D,Groceries,1469.32,8,30,3526.37,8228.19,18,Male,Debit Card,2.9
+221,2023-07-12,Wednesday,7,0,Store_D,Books,1252.7,8,15,1503.24,8518.36,40,Male,Debit Card,1.8
+222,2022-04-26,Tuesday,4,0,Store_A,Books,960.89,1,5,48.04,912.85,31,Male,Cash,3.4
+223,2023-04-03,Monday,4,0,Store_A,Furniture,59502.75,13,15,116030.36,657505.39,32,Male,Cash,1.6
+224,2022-10-24,Monday,10,0,Store_B,Sports,8788.88,11,5,4833.88,91843.8,37,Male,Credit Card,2.7
+225,2022-10-09,Sunday,10,1,Store_A,Groceries,1270.69,14,20,3557.93,14231.73,49,Male,Debit Card,4.8
+226,2023-11-19,Sunday,11,1,Store_D,Sports,10535.73,19,5,7375.01,192803.86,37,Female,Credit Card,4.0
+227,2022-09-04,Sunday,9,1,Store_B,Toys,2586.87,5,30,3880.3,9054.05,47,Male,UPI,4.9
+228,2023-07-25,Tuesday,7,0,Store_B,Books,440.0,7,10,308.0,2772.0,59,Male,UPI,4.4
+229,2022-04-05,Tuesday,4,0,Store_B,Electronics,13788.85,20,20,55155.4,220621.6,20,Male,Credit Card,4.2
+230,2023-08-25,Friday,8,0,Store_B,Beauty,954.22,11,10,1049.64,9446.78,18,Male,Credit Card,4.8
+231,2022-05-01,Sunday,5,1,Store_D,Furniture,55954.48,7,15,58752.2,332929.16,33,Female,Debit Card,2.5
+232,2023-07-01,Saturday,7,1,Store_C,Toys,858.53,17,15,2189.25,12405.76,47,Male,UPI,4.0
+233,2022-11-24,Thursday,11,0,Store_B,Sports,4899.95,7,20,1959.98,32339.67,32,Male,Cash,2.0
+234,2022-10-30,Sunday,10,1,Store_B,Furniture,27059.36,13,20,70354.34,281417.34,33,Female,Debit Card,2.0
+235,2023-05-16,Tuesday,5,0,Store_D,Beauty,797.7,12,5,478.62,9093.78,26,Female,Credit Card,4.7
+236,2023-07-10,Monday,7,0,Store_A,Electronics,42033.89,3,30,37830.5,88271.17,60,Male,Cash,2.6
+237,2023-10-08,Sunday,10,1,Store_B,Clothing,3594.41,1,5,179.72,3414.69,50,Female,Debit Card,1.2
+238,2023-10-16,Monday,10,0,Store_D,Beauty,210.57,18,20,758.05,3032.21,44,Male,Cash,3.1
+239,2022-10-09,Sunday,10,1,Store_C,Electronics,25359.69,14,30,106510.7,248524.96,29,Male,Cash,3.1
+240,2022-09-04,Sunday,9,1,Store_B,Toys,2464.12,9,30,6653.12,15523.96,43,Male,Debit Card,4.8
+241,2023-04-16,Sunday,4,1,Store_B,Furniture,24698.0,3,25,18523.5,55570.5,59,Male,Cash,2.6
+242,2023-01-22,Sunday,1,1,Store_D,Electronics,32019.03,6,0,0.0,192114.18,49,Female,Debit Card,3.3
+243,2022-04-08,Friday,4,0,Store_A,Furniture,17701.95,19,15,50450.56,285886.49,35,Male,Cash,3.7
+244,2022-10-15,Saturday,10,1,Store_A,Groceries,1861.09,11,0,0.0,20471.99,31,Male,UPI,4.7
+245,2022-11-03,Thursday,11,0,Store_B,Furniture,45768.98,16,25,148749.18,583554.5,52,Female,UPI,4.0
+246,2023-12-07,Thursday,12,0,Store_A,Sports,1089.34,18,5,762.54,18845.58,22,Female,UPI,4.9
+247,2022-01-31,Monday,1,0,Store_C,Beauty,2038.82,12,20,4893.17,19572.67,42,Female,Credit Card,3.7
+248,2023-11-08,Wednesday,11,0,Store_D,Clothing,3906.4,15,30,11719.2,46876.8,33,Male,Cash,2.1
+249,2023-12-30,Saturday,12,1,Store_B,Books,543.35,8,0,0.0,4346.8,18,Female,UPI,2.4
+250,2022-04-15,Friday,4,0,Store_B,Clothing,1099.48,15,20,3298.44,13193.76,53,Female,Cash,1.1
+251,2022-12-29,Thursday,12,0,Store_A,Sports,12996.66,4,10,1299.67,50686.97,44,Female,Cash,3.9
+252,2023-08-09,Wednesday,8,0,Store_B,Books,337.3,9,10,303.57,2732.13,35,Female,Credit Card,1.3
+253,2023-03-22,Wednesday,3,0,Store_C,Books,519.65,3,10,155.89,1403.06,34,Male,UPI,3.4
+254,2022-07-20,Wednesday,7,0,Store_D,Clothing,850.35,1,15,127.55,722.8,39,Female,Debit Card,2.8
+255,2023-03-17,Friday,3,0,Store_B,Toys,1029.93,7,15,1081.43,6128.08,38,Male,UPI,4.9
+256,2022-10-26,Wednesday,10,0,Store_D,Furniture,26745.01,9,30,72211.53,168493.56,68,Female,Debit Card,1.5
+257,2023-08-01,Tuesday,8,0,Store_B,Groceries,1379.34,18,0,0.0,24828.12,64,Female,Credit Card,2.8
+258,2022-10-26,Wednesday,10,0,Store_A,Books,1042.17,5,25,1302.71,3908.14,37,Male,Debit Card,3.6
+259,2023-03-10,Friday,3,0,Store_D,Clothing,2355.52,20,15,7066.56,40043.84,55,Female,UPI,3.2
+260,2023-01-04,Wednesday,1,0,Store_A,Clothing,3890.98,12,5,2334.59,44357.17,59,Male,UPI,4.9
+261,2022-12-06,Tuesday,12,0,Store_D,Clothing,250.63,14,5,112.78,3396.04,50,Male,UPI,2.5
+262,2023-11-27,Monday,11,0,Store_B,Sports,14966.23,19,0,0.0,284358.37,36,Female,Cash,1.5
+263,2022-12-23,Friday,12,0,Store_C,Sports,6993.39,12,20,9790.75,74129.93,48,Female,UPI,1.4
+264,2022-11-23,Wednesday,11,0,Store_A,Toys,229.58,7,0,0.0,1607.06,39,Male,Credit Card,4.7
+265,2023-06-13,Tuesday,6,0,Store_B,Groceries,695.43,14,15,1460.4,8275.62,32,Female,Credit Card,1.7
+266,2023-11-05,Sunday,11,1,Store_D,Books,140.87,20,5,140.87,2676.53,46,Female,UPI,1.0
+267,2022-07-30,Saturday,7,1,Store_C,Clothing,2971.27,18,5,2674.14,50808.72,41,Female,Credit Card,2.8
+268,2022-09-26,Monday,9,0,Store_D,Sports,9075.47,20,15,27226.41,154282.99,55,Male,Debit Card,2.4
+269,2023-04-14,Friday,4,0,Store_B,Toys,2764.18,19,0,0.0,52519.42,61,Male,Debit Card,1.5
+270,2022-11-09,Wednesday,11,0,Store_A,Groceries,777.95,10,20,777.95,7001.55,42,Female,Credit Card,3.3
+271,2022-07-10,Sunday,7,1,Store_D,Groceries,1132.08,16,10,1811.33,16301.95,26,Male,Debit Card,4.4
+272,2023-09-27,Wednesday,9,0,Store_A,Sports,14292.08,16,5,11433.66,217239.62,30,Female,UPI,2.6
+273,2023-05-19,Friday,5,0,Store_D,Beauty,2031.49,3,20,1218.89,4875.58,19,Male,Debit Card,1.1
+274,2022-08-19,Friday,8,0,Store_C,Groceries,1572.44,19,25,7469.09,22407.27,67,Female,Cash,3.3
+275,2022-10-02,Sunday,10,1,Store_C,Electronics,38120.2,15,20,114360.6,457442.4,31,Female,Cash,3.9
+276,2023-11-01,Wednesday,11,0,Store_B,Toys,2636.95,4,15,791.09,9756.71,34,Female,Cash,2.8
+277,2022-08-31,Wednesday,8,0,Store_B,Sports,12957.42,20,25,64787.1,194361.3,45,Male,Credit Card,4.1
+278,2022-07-31,Sunday,7,1,Store_A,Sports,8124.53,20,20,32498.12,129992.48,28,Female,Debit Card,2.2
+279,2022-10-01,Saturday,10,1,Store_A,Groceries,1927.41,14,0,0.0,26983.74,35,Male,Credit Card,2.0
+280,2023-12-30,Saturday,12,1,Store_C,Furniture,61156.41,15,15,119255.0,798091.15,27,Female,UPI,2.5
+281,2023-10-11,Wednesday,10,0,Store_A,Books,821.86,9,25,1849.18,5547.56,41,Female,UPI,2.3
+282,2022-01-03,Monday,1,0,Store_A,Beauty,2594.14,12,30,9338.9,21790.78,22,Female,Credit Card,4.9
+283,2022-08-05,Friday,8,0,Store_D,Toys,1036.31,10,10,1036.31,9326.79,53,Male,UPI,4.2
+284,2023-11-30,Thursday,11,0,Store_A,Electronics,5428.95,20,0,0.0,108579.0,25,Male,UPI,2.8
+285,2022-07-27,Wednesday,7,0,Store_B,Toys,561.03,9,0,0.0,5049.27,59,Female,Debit Card,1.3
+286,2023-11-12,Sunday,11,1,Store_B,Electronics,20118.91,12,25,50297.28,191129.64,62,Male,UPI,3.6
+287,2022-01-02,Sunday,1,1,Store_B,Beauty,450.06,19,5,427.56,8123.58,51,Female,Cash,1.0
+288,2022-12-18,Sunday,12,1,Store_A,Books,1071.64,18,0,0.0,19289.52,32,Female,Cash,3.9
+289,2022-04-16,Saturday,4,1,Store_C,Sports,13250.54,5,15,9937.91,56314.79,67,Male,Credit Card,1.3
+290,2023-07-31,Monday,7,0,Store_A,Groceries,908.19,7,25,1589.33,4768.0,65,Male,UPI,3.5
+291,2023-03-30,Thursday,3,0,Store_B,Clothing,4503.65,5,30,6755.48,15762.77,25,Female,Debit Card,4.9
+292,2022-11-19,Saturday,11,1,Store_B,Furniture,22880.44,7,5,3432.07,156731.01,53,Female,Cash,4.4
+293,2022-07-30,Saturday,7,1,Store_B,Books,513.76,2,30,308.26,719.26,68,Male,UPI,2.5
+294,2022-09-04,Sunday,9,1,Store_D,Clothing,2735.78,1,10,273.58,2462.2,38,Male,UPI,4.4
+295,2023-08-06,Sunday,8,1,Store_D,Sports,8331.44,6,30,14996.59,34992.05,48,Male,Cash,3.3
+296,2022-01-15,Saturday,1,1,Store_C,Furniture,4146.32,2,30,2487.79,5804.85,43,Female,UPI,2.7
+297,2023-02-16,Thursday,2,0,Store_A,Groceries,591.06,10,0,0.0,5910.6,50,Male,Credit Card,3.1
+298,2023-02-05,Sunday,2,1,Store_A,Toys,2126.16,8,0,0.0,17009.28,33,Male,UPI,1.5
+299,2023-09-19,Tuesday,9,0,Store_A,Toys,2031.63,6,0,0.0,12189.78,18,Male,Cash,1.7
+300,2022-12-22,Thursday,12,0,Store_C,Groceries,775.15,13,25,1744.09,8332.86,25,Male,Debit Card,4.2
+301,2023-06-21,Wednesday,6,0,Store_A,Toys,2165.74,19,25,10287.26,30861.8,22,Female,UPI,3.0
+302,2022-02-26,Saturday,2,1,Store_D,Groceries,766.99,9,30,2070.87,4832.04,24,Male,Credit Card,4.0
+303,2022-01-03,Monday,1,0,Store_A,Electronics,12605.3,16,10,20168.48,181516.32,42,Male,Credit Card,4.7
+304,2022-02-06,Sunday,2,1,Store_D,Furniture,26422.36,14,25,92478.26,277434.78,38,Female,Cash,3.3
+305,2022-05-03,Tuesday,5,0,Store_A,Groceries,485.21,17,0,0.0,8248.57,43,Male,UPI,4.5
+306,2022-11-15,Tuesday,11,0,Store_C,Clothing,2854.84,4,10,285.48,11133.88,30,Female,Debit Card,4.0
+307,2023-04-21,Friday,4,0,Store_C,Beauty,3991.48,7,25,6985.09,20955.27,52,Male,Credit Card,1.0
+308,2023-02-24,Friday,2,0,Store_A,Furniture,43782.07,1,10,4378.21,39403.86,18,Female,Debit Card,1.4
+309,2023-06-27,Tuesday,6,0,Store_B,Books,788.84,2,5,78.88,1498.8,63,Female,Cash,1.2
+310,2022-08-26,Friday,8,0,Store_D,Sports,7039.33,3,20,4223.6,16894.39,24,Male,UPI,1.3
+311,2023-08-05,Saturday,8,1,Store_A,Books,1027.42,5,5,256.86,4880.24,36,Female,Debit Card,4.7
+312,2023-02-07,Tuesday,2,0,Store_C,Sports,6955.54,8,0,0.0,55644.32,30,Male,Cash,1.6
+313,2022-06-18,Saturday,6,1,Store_D,Beauty,1359.03,4,20,1087.22,4348.9,40,Male,UPI,2.2
+314,2022-09-29,Thursday,9,0,Store_A,Clothing,956.55,10,30,2869.65,6695.85,63,Male,Credit Card,4.3
+315,2022-12-02,Friday,12,0,Store_B,Clothing,3613.56,15,15,6504.41,47698.99,50,Male,Debit Card,2.0
+316,2022-02-01,Tuesday,2,0,Store_D,Beauty,2290.42,18,5,2061.38,39166.18,24,Female,Cash,4.2
+317,2022-05-24,Tuesday,5,0,Store_A,Electronics,3552.62,8,5,1421.05,26999.91,30,Female,Debit Card,3.7
+318,2023-10-23,Monday,10,0,Store_A,Toys,2760.54,3,0,0.0,8281.62,22,Male,UPI,4.2
+319,2022-04-05,Tuesday,4,0,Store_C,Clothing,404.94,15,0,0.0,6074.1,28,Female,UPI,3.0
+320,2023-01-27,Friday,1,0,Store_D,Groceries,740.19,6,10,444.11,3997.03,35,Female,Credit Card,1.1
+321,2023-09-27,Wednesday,9,0,Store_B,Toys,1546.79,18,15,4176.33,23665.89,21,Male,Debit Card,2.5
+322,2023-03-06,Monday,3,0,Store_B,Furniture,50829.6,18,30,274479.84,640452.96,19,Female,Debit Card,2.9
+323,2023-05-12,Friday,5,0,Store_C,Sports,6009.2,6,0,0.0,36055.2,38,Male,Cash,4.6
+324,2022-10-15,Saturday,10,1,Store_A,Beauty,2188.31,19,5,2078.89,39499.0,28,Male,Credit Card,3.6
+325,2022-09-30,Friday,9,0,Store_A,Furniture,46479.68,13,10,60423.58,543812.26,29,Male,Credit Card,3.4
+326,2023-12-16,Saturday,12,1,Store_C,Electronics,35320.92,17,20,84770.21,515685.43,54,Male,Credit Card,4.3
+327,2023-07-10,Monday,7,0,Store_C,Groceries,1006.35,3,0,0.0,3019.05,32,Male,Cash,3.1
+328,2022-01-01,Saturday,1,1,Store_C,Furniture,64709.19,11,25,177950.27,533850.82,29,Female,Cash,1.1
+329,2023-08-24,Thursday,8,0,Store_B,Clothing,4263.11,12,0,0.0,51157.32,41,Female,Cash,2.3
+330,2022-11-27,Sunday,11,1,Store_B,Groceries,1478.09,18,30,6207.98,20397.64,58,Female,Debit Card,1.7
+331,2022-08-17,Wednesday,8,0,Store_B,Books,529.55,10,5,264.77,5030.73,29,Male,UPI,4.4
+332,2023-08-05,Saturday,8,1,Store_A,Groceries,1224.66,20,5,1224.66,23268.54,58,Male,UPI,1.6
+333,2022-03-21,Monday,3,0,Store_B,Sports,14740.98,6,25,22111.47,66334.41,23,Female,UPI,1.0
+334,2022-08-03,Wednesday,8,0,Store_B,Clothing,1882.31,4,25,1882.31,5646.93,18,Male,UPI,2.8
+335,2023-03-06,Monday,3,0,Store_B,Books,790.31,13,10,1027.4,9246.63,52,Female,Cash,4.3
+336,2023-08-15,Tuesday,8,0,Store_B,Groceries,930.01,2,10,186.0,1674.02,19,Female,Debit Card,4.8
+337,2022-03-17,Thursday,3,0,Store_C,Groceries,1781.47,6,25,2672.2,8016.62,22,Male,Debit Card,3.4
+338,2023-09-21,Thursday,9,0,Store_D,Electronics,21850.51,6,20,26220.61,104882.45,45,Male,Cash,1.4
+339,2022-07-30,Saturday,7,1,Store_B,Books,1076.08,18,10,1936.94,17432.5,60,Female,Debit Card,2.0
+340,2022-02-20,Sunday,2,1,Store_D,Beauty,741.32,12,0,0.0,8895.84,45,Male,Debit Card,4.3
+341,2023-10-03,Tuesday,10,0,Store_D,Furniture,8661.96,7,5,3031.69,57602.03,58,Female,Cash,2.9
+342,2022-04-29,Friday,4,0,Store_C,Books,759.32,9,0,0.0,6833.88,59,Female,Credit Card,2.5
+343,2023-01-26,Thursday,1,0,Store_C,Groceries,919.26,9,15,1241.0,7032.34,47,Female,Credit Card,4.3
+344,2023-08-01,Tuesday,8,0,Store_A,Groceries,1516.86,4,0,0.0,6067.44,60,Female,UPI,4.9
+345,2023-08-27,Sunday,8,1,Store_B,Electronics,42119.46,17,15,107404.62,608626.2,52,Female,Credit Card,2.9
+346,2022-03-22,Tuesday,3,0,Store_D,Electronics,25354.02,17,30,129305.5,301712.84,54,Male,Cash,4.8
+347,2023-04-05,Wednesday,4,0,Store_B,Groceries,1945.72,7,5,681.0,12939.04,20,Female,Cash,5.0
+348,2023-03-22,Wednesday,3,0,Store_B,Groceries,1676.51,9,10,1508.86,13579.73,64,Male,Cash,2.6
+349,2023-02-11,Saturday,2,1,Store_C,Toys,1607.1,1,30,482.13,1124.97,62,Female,Cash,2.7
+350,2022-06-01,Wednesday,6,0,Store_A,Clothing,2900.88,4,30,3481.06,8122.46,36,Female,UPI,2.1
+351,2023-11-02,Thursday,11,0,Store_D,Beauty,294.24,13,15,397.22,3427.9,27,Female,Cash,2.6
+352,2023-12-09,Saturday,12,1,Store_B,Electronics,37414.62,14,10,33673.16,490131.52,19,Female,Debit Card,2.2
+353,2023-12-14,Thursday,12,0,Store_A,Furniture,11616.46,17,30,52274.07,145205.75,70,Female,Debit Card,3.9
+354,2022-07-12,Tuesday,7,0,Store_D,Furniture,73161.19,14,25,256064.17,768192.49,49,Female,Cash,3.1
+355,2022-06-12,Sunday,6,1,Store_A,Toys,2157.75,13,5,1402.54,26648.21,67,Male,Credit Card,1.8
+356,2022-07-25,Monday,7,0,Store_A,Furniture,3612.61,2,10,722.52,6502.7,63,Male,Debit Card,2.5
+357,2023-04-21,Friday,4,0,Store_D,Clothing,3469.64,8,10,2775.71,24981.41,49,Female,Credit Card,4.8
+358,2023-05-01,Monday,5,0,Store_C,Sports,2703.65,9,25,6083.21,18249.64,62,Male,Debit Card,1.1
+359,2022-02-20,Sunday,2,1,Store_B,Furniture,68711.78,8,25,137423.56,412270.68,31,Female,UPI,3.1
+360,2023-11-30,Thursday,11,0,Store_A,Beauty,3659.33,10,20,4391.2,32202.1,69,Male,Credit Card,2.0
+361,2023-12-31,Sunday,12,1,Store_C,Books,1353.68,17,15,2436.62,20575.94,34,Male,UPI,2.2
+362,2023-08-22,Tuesday,8,0,Store_A,Electronics,25819.93,12,20,61967.83,247871.33,59,Female,Debit Card,3.7
+363,2023-05-09,Tuesday,5,0,Store_A,Sports,14828.91,11,30,48935.4,114182.61,35,Female,Debit Card,1.8
+364,2023-06-14,Wednesday,6,0,Store_B,Electronics,40368.78,20,15,121106.34,686269.26,60,Female,Credit Card,3.9
+365,2023-11-03,Friday,11,0,Store_D,Toys,852.34,17,15,1789.91,12699.87,42,Male,Credit Card,2.4
+366,2023-12-04,Monday,12,0,Store_D,Sports,7757.53,9,30,13963.55,55854.22,60,Male,Debit Card,1.4
+367,2022-09-22,Thursday,9,0,Store_B,Sports,9920.19,8,10,7936.15,71425.37,32,Female,UPI,4.2
+368,2022-12-06,Tuesday,12,0,Store_C,Toys,1798.16,17,30,8091.72,22477.0,25,Female,Cash,4.5
+369,2023-04-29,Saturday,4,1,Store_B,Clothing,4363.99,13,20,11346.37,45385.5,37,Female,Cash,4.5
+370,2022-06-04,Saturday,6,1,Store_B,Furniture,28070.92,19,15,80002.12,453345.36,27,Female,Credit Card,4.1
+371,2023-05-15,Monday,5,0,Store_C,Groceries,661.16,2,0,0.0,1322.32,46,Female,Credit Card,4.0
+372,2022-06-22,Wednesday,6,0,Store_B,Beauty,3173.06,3,5,475.96,9043.22,57,Female,UPI,2.6
+373,2023-05-04,Thursday,5,0,Store_D,Electronics,2367.4,7,25,4142.95,12428.85,41,Male,Debit Card,4.0
+374,2023-06-28,Wednesday,6,0,Store_B,Electronics,33999.03,8,5,13599.61,258392.63,62,Female,Debit Card,1.5
+375,2023-01-28,Saturday,1,1,Store_C,Groceries,177.31,2,10,35.46,319.16,36,Female,Debit Card,2.7
+376,2023-12-05,Tuesday,12,0,Store_B,Sports,14943.24,20,10,23909.18,274955.62,66,Male,Credit Card,4.8
+377,2022-01-20,Thursday,1,0,Store_B,Furniture,58446.34,5,5,14611.58,277620.12,64,Male,Credit Card,1.5
+378,2023-12-30,Saturday,12,1,Store_A,Books,1327.16,11,30,3583.33,11015.43,52,Male,Cash,3.6
+379,2022-02-19,Saturday,2,1,Store_A,Books,722.04,4,20,577.63,2310.53,34,Female,Credit Card,1.8
+380,2023-12-04,Monday,12,0,Store_A,Toys,1320.53,6,25,1320.53,6602.65,51,Female,Credit Card,2.7
+381,2023-06-08,Thursday,6,0,Store_A,Toys,430.64,4,15,258.38,1464.18,30,Male,Debit Card,4.3
+382,2022-07-26,Tuesday,7,0,Store_C,Books,513.49,2,20,205.4,821.58,49,Male,UPI,2.3
+383,2022-01-03,Monday,1,0,Store_A,Clothing,4553.02,19,25,21626.85,64880.53,49,Male,Cash,4.1
+384,2022-03-18,Friday,3,0,Store_A,Toys,1968.58,15,10,2952.87,26575.83,34,Female,Cash,1.4
+385,2022-06-28,Tuesday,6,0,Store_A,Toys,1144.62,11,15,1888.62,10702.2,65,Male,Cash,4.4
+386,2022-02-16,Wednesday,2,0,Store_A,Groceries,1343.54,6,10,806.12,7255.12,40,Female,Debit Card,4.5
+387,2022-04-06,Wednesday,4,0,Store_C,Sports,2988.18,13,15,5826.95,33019.39,47,Female,UPI,3.8
+388,2023-05-05,Friday,5,0,Store_D,Groceries,270.46,2,30,162.28,378.64,28,Male,UPI,4.6
+389,2023-05-10,Wednesday,5,0,Store_D,Groceries,1242.08,12,20,2980.99,11923.97,19,Male,UPI,4.7
+390,2022-04-26,Tuesday,4,0,Store_D,Beauty,326.99,9,25,735.73,2207.18,38,Male,Credit Card,4.9
+391,2023-11-17,Friday,11,0,Store_C,Clothing,2277.67,10,15,2733.2,20043.5,40,Female,Credit Card,4.4
+392,2022-01-12,Wednesday,1,0,Store_B,Beauty,3429.7,6,0,0.0,20578.2,66,Female,Debit Card,2.0
+393,2022-10-12,Wednesday,10,0,Store_A,Furniture,44489.15,13,15,86753.84,491605.11,70,Male,Cash,2.8
+394,2023-08-10,Thursday,8,0,Store_D,Clothing,4311.63,15,10,6467.44,58207.01,25,Female,Cash,1.4
+395,2023-02-27,Monday,2,0,Store_A,Electronics,41382.48,20,20,165529.92,662119.68,58,Female,Credit Card,3.6
+396,2023-04-13,Thursday,4,0,Store_C,Sports,12432.07,8,30,29836.97,69619.59,47,Female,UPI,3.9
+397,2023-01-08,Sunday,1,1,Store_D,Clothing,667.7,8,0,0.0,5341.6,39,Female,Debit Card,3.2
+398,2023-01-18,Wednesday,1,0,Store_A,Electronics,44895.42,16,5,35916.34,682410.38,70,Female,Cash,2.0
+399,2022-07-20,Wednesday,7,0,Store_B,Clothing,4665.04,13,5,3032.28,57613.24,47,Male,Debit Card,1.4
+400,2023-03-01,Wednesday,3,0,Store_A,Clothing,3906.3,15,15,8789.17,49805.33,60,Male,UPI,1.0
+401,2022-02-19,Saturday,2,1,Store_D,Beauty,3708.83,6,25,5563.24,16689.74,55,Male,Credit Card,1.4
+402,2023-11-05,Sunday,11,1,Store_C,Books,686.13,20,25,3430.65,10291.95,66,Male,Debit Card,2.6
+403,2022-10-29,Saturday,10,1,Store_D,Groceries,319.45,20,25,1597.25,4791.75,65,Female,Debit Card,3.8
+404,2023-07-21,Friday,7,0,Store_B,Furniture,17567.3,10,25,43918.25,131754.75,40,Male,Credit Card,3.0
+405,2023-12-12,Tuesday,12,0,Store_C,Clothing,3851.72,20,15,10399.64,66634.76,55,Female,Debit Card,4.5
+406,2022-01-14,Friday,1,0,Store_A,Electronics,19353.08,2,25,9676.54,29029.62,21,Male,Debit Card,4.0
+407,2022-06-14,Tuesday,6,0,Store_C,Toys,524.64,2,25,262.32,786.96,68,Female,Credit Card,4.0
+408,2022-02-03,Thursday,2,0,Store_C,Beauty,544.55,18,30,2940.57,6861.33,32,Female,Credit Card,3.0
+409,2023-12-14,Thursday,12,0,Store_C,Electronics,46361.0,17,15,90403.95,697733.05,68,Female,Cash,1.1
+410,2022-07-27,Wednesday,7,0,Store_D,Furniture,73007.42,12,30,262826.71,613262.33,55,Male,Credit Card,2.2
+411,2022-07-01,Friday,7,0,Store_A,Groceries,1926.83,17,0,0.0,32756.11,42,Male,UPI,2.1
+412,2022-09-28,Wednesday,9,0,Store_B,Groceries,1188.77,9,0,0.0,10698.93,39,Female,Credit Card,1.2
+413,2022-11-27,Sunday,11,1,Store_A,Toys,1522.6,20,20,5785.88,24666.12,40,Male,Debit Card,3.1
+414,2023-06-18,Sunday,6,1,Store_A,Groceries,861.07,18,15,2324.89,13174.37,23,Female,Credit Card,4.5
+415,2023-11-11,Saturday,11,1,Store_C,Sports,5603.73,11,30,11767.83,49873.2,57,Female,Cash,1.5
+416,2023-04-02,Sunday,4,1,Store_B,Furniture,76752.85,11,15,126642.2,717639.15,68,Male,UPI,2.0
+417,2022-10-17,Monday,10,0,Store_A,Sports,7860.34,17,15,20043.87,113581.91,49,Male,Debit Card,4.6
+418,2022-07-17,Sunday,7,1,Store_C,Clothing,4751.42,6,30,8552.56,19955.96,52,Male,Cash,1.8
+419,2023-10-07,Saturday,10,1,Store_B,Books,1269.93,7,20,1777.9,7111.61,62,Female,Cash,4.0
+420,2022-06-07,Tuesday,6,0,Store_A,Beauty,2909.94,2,0,0.0,5819.88,22,Male,Credit Card,4.2
+421,2023-07-26,Wednesday,7,0,Store_A,Furniture,72967.94,14,15,153232.67,868318.49,46,Female,UPI,2.3
+422,2023-02-03,Friday,2,0,Store_A,Electronics,32250.43,20,0,0.0,645008.6,66,Male,Cash,2.4
+423,2023-05-30,Tuesday,5,0,Store_A,Toys,2381.99,10,20,4763.98,19055.92,23,Female,UPI,2.5
+424,2023-11-08,Wednesday,11,0,Store_A,Beauty,751.85,11,5,300.74,7969.61,65,Female,Debit Card,4.8
+425,2022-11-02,Wednesday,11,0,Store_C,Electronics,27899.45,20,5,25109.51,532879.49,25,Male,Cash,3.3
+426,2023-07-05,Wednesday,7,0,Store_A,Toys,709.15,12,5,425.49,8084.31,44,Male,Credit Card,1.7
+427,2023-09-24,Sunday,9,1,Store_C,Furniture,10055.18,19,30,57314.53,133733.89,21,Female,Cash,2.2
+428,2022-03-10,Thursday,3,0,Store_C,Clothing,1147.6,19,15,3270.66,18533.74,39,Female,Credit Card,3.7
+429,2022-08-29,Monday,8,0,Store_A,Toys,1896.6,7,10,1327.62,11948.58,49,Female,Debit Card,3.5
+430,2022-11-10,Thursday,11,0,Store_B,Sports,12173.19,19,5,8521.23,222769.38,18,Female,Credit Card,4.1
+431,2022-10-11,Tuesday,10,0,Store_C,Groceries,1375.18,11,15,2269.05,12857.93,47,Female,Debit Card,4.1
+432,2023-05-14,Sunday,5,1,Store_A,Groceries,1308.83,3,30,1177.95,2748.54,35,Male,Credit Card,2.1
+433,2023-10-04,Wednesday,10,0,Store_A,Clothing,4482.1,17,25,19048.93,57146.77,19,Female,Credit Card,4.6
+434,2023-07-19,Wednesday,7,0,Store_C,Beauty,2667.55,5,10,1333.78,12003.97,43,Male,Debit Card,1.5
+435,2023-05-29,Monday,5,0,Store_A,Books,609.41,1,25,152.35,457.06,33,Male,Credit Card,2.8
+436,2022-07-03,Sunday,7,1,Store_B,Beauty,3765.82,2,5,376.58,7155.06,66,Female,Credit Card,1.3
+437,2023-01-14,Saturday,1,1,Store_B,Electronics,33594.99,17,30,171334.45,399780.38,41,Female,UPI,4.7
+438,2022-02-17,Thursday,2,0,Store_A,Sports,1817.41,17,25,7723.99,23171.98,35,Female,Credit Card,2.5
+439,2023-01-23,Monday,1,0,Store_C,Clothing,2679.98,13,5,1741.99,33097.75,51,Female,Debit Card,4.3
+440,2022-12-20,Tuesday,12,0,Store_D,Beauty,3565.61,5,20,713.12,17114.93,26,Female,Credit Card,1.9
+441,2022-08-05,Friday,8,0,Store_B,Groceries,356.85,20,25,1784.25,5352.75,70,Male,Credit Card,2.7
+442,2022-12-05,Monday,12,0,Store_A,Beauty,2749.63,18,5,2199.7,47293.64,55,Male,UPI,1.1
+443,2022-05-11,Wednesday,5,0,Store_B,Groceries,1277.6,2,20,511.04,2044.16,27,Male,Credit Card,2.0
+444,2022-07-04,Monday,7,0,Store_D,Electronics,43986.19,10,0,0.0,439861.9,31,Female,UPI,4.5
+445,2022-06-24,Friday,6,0,Store_B,Books,941.17,19,30,5364.67,12517.56,67,Male,Debit Card,1.7
+446,2023-12-04,Monday,12,0,Store_C,Beauty,2446.65,6,5,367.0,14312.9,42,Female,Credit Card,1.4
+447,2023-06-20,Tuesday,6,0,Store_D,Groceries,1230.75,6,15,1107.67,6276.83,57,Male,Cash,1.4
+448,2023-11-07,Tuesday,11,0,Store_B,Electronics,44899.96,19,20,125719.89,727379.35,44,Female,Cash,3.8
+449,2022-08-23,Tuesday,8,0,Store_D,Books,590.72,19,0,0.0,11223.68,45,Male,Debit Card,2.9
+450,2022-08-27,Saturday,8,1,Store_A,Toys,1835.05,18,15,4954.64,28076.26,34,Male,Cash,3.8
+451,2022-01-08,Saturday,1,1,Store_A,Electronics,19063.98,7,25,33361.96,100085.9,69,Female,UPI,2.4
+452,2022-06-08,Wednesday,6,0,Store_D,Toys,857.78,18,15,2316.01,13124.03,54,Female,Debit Card,5.0
+453,2023-02-11,Saturday,2,1,Store_B,Books,872.95,18,15,2356.97,13356.13,29,Female,UPI,2.0
+454,2022-11-11,Friday,11,0,Store_C,Books,1130.1,9,25,1130.1,9040.8,32,Female,Credit Card,1.4
+455,2022-12-13,Tuesday,12,0,Store_A,Groceries,808.75,6,30,242.62,4609.88,23,Male,UPI,4.7
+456,2022-04-01,Friday,4,0,Store_A,Toys,743.13,3,20,445.88,1783.51,20,Female,UPI,3.5
+457,2023-06-18,Sunday,6,1,Store_C,Electronics,47312.93,6,25,70969.4,212908.18,49,Female,Cash,1.8
+458,2023-11-04,Saturday,11,1,Store_C,Furniture,3655.14,20,20,14620.56,58482.24,51,Male,Credit Card,3.7
+459,2022-09-02,Friday,9,0,Store_A,Groceries,219.34,9,30,592.22,1381.84,43,Female,UPI,2.6
+460,2022-07-25,Monday,7,0,Store_A,Clothing,4612.05,18,10,8301.69,74715.21,64,Female,Debit Card,4.9
+461,2022-10-11,Tuesday,10,0,Store_B,Furniture,36925.96,13,20,96007.5,384029.98,18,Female,Credit Card,2.6
+462,2022-04-20,Wednesday,4,0,Store_A,Toys,1085.9,4,30,1303.08,3040.52,50,Female,Debit Card,3.8
+463,2023-01-22,Sunday,1,1,Store_D,Furniture,60840.39,15,25,228151.46,684454.39,47,Male,UPI,1.5
+464,2022-03-11,Friday,3,0,Store_D,Furniture,54476.13,8,30,130742.71,305066.33,38,Female,Debit Card,3.1
+465,2022-01-10,Monday,1,0,Store_C,Furniture,23695.88,13,25,77011.61,231034.83,65,Female,Cash,3.2
+466,2022-07-02,Saturday,7,1,Store_D,Sports,5497.01,19,10,10444.32,93998.87,29,Male,UPI,3.9
+467,2022-08-29,Monday,8,0,Store_B,Toys,699.66,7,30,1469.29,3428.33,33,Female,Credit Card,4.1
+468,2022-05-03,Tuesday,5,0,Store_A,Beauty,2513.23,18,0,0.0,45238.14,48,Female,Debit Card,3.0
+469,2023-08-12,Saturday,8,1,Store_C,Beauty,854.06,17,10,1451.9,13067.12,43,Male,Credit Card,1.2
+470,2023-03-10,Friday,3,0,Store_D,Electronics,25372.52,13,30,98952.83,230889.93,61,Male,UPI,4.9
+471,2023-12-17,Sunday,12,1,Store_D,Sports,10431.4,5,25,2607.85,49549.15,31,Female,Cash,2.3
+472,2022-07-11,Monday,7,0,Store_C,Furniture,22283.25,20,10,44566.5,401098.5,41,Male,UPI,2.7
+473,2023-03-06,Monday,3,0,Store_C,Sports,12858.59,9,15,17359.1,98368.21,29,Male,Credit Card,4.3
+474,2022-10-04,Tuesday,10,0,Store_B,Books,1298.83,7,5,454.59,8637.22,69,Male,UPI,4.2
+475,2022-06-30,Thursday,6,0,Store_D,Beauty,667.72,17,20,2270.25,9080.99,64,Female,UPI,2.2
+476,2023-07-30,Sunday,7,1,Store_A,Books,238.56,6,0,0.0,1431.36,31,Female,UPI,4.4
+477,2022-04-09,Saturday,4,1,Store_D,Sports,4118.61,12,20,9884.66,39538.66,53,Female,Debit Card,1.1
+478,2022-05-05,Thursday,5,0,Store_C,Furniture,46571.45,18,5,41914.31,796371.79,67,Female,Debit Card,2.3
+479,2023-06-07,Wednesday,6,0,Store_D,Beauty,3575.08,13,20,9295.21,37180.83,36,Female,Credit Card,4.5
+480,2023-10-18,Wednesday,10,0,Store_C,Books,983.78,19,15,2803.77,15888.05,22,Male,Credit Card,2.4
+481,2022-11-18,Friday,11,0,Store_C,Toys,2160.26,20,25,10801.3,32403.9,43,Female,UPI,4.1
+482,2023-08-25,Friday,8,0,Store_D,Books,334.25,1,5,16.71,317.54,64,Male,Debit Card,4.8
+483,2023-12-19,Tuesday,12,0,Store_A,Furniture,14185.93,9,0,0.0,127673.37,22,Female,Cash,1.1
+484,2023-06-21,Wednesday,6,0,Store_A,Clothing,1459.77,5,0,0.0,7298.85,59,Female,Debit Card,1.9
+485,2022-10-18,Tuesday,10,0,Store_D,Groceries,305.99,6,0,0.0,1835.94,20,Female,Debit Card,4.5
+486,2023-04-24,Monday,4,0,Store_C,Beauty,670.19,18,5,603.17,11460.25,55,Female,UPI,3.1
+487,2023-10-17,Tuesday,10,0,Store_C,Sports,7380.28,8,30,17712.67,41329.57,23,Female,Debit Card,2.5
+488,2022-09-24,Saturday,9,1,Store_B,Toys,130.61,17,30,666.11,1554.26,66,Male,Debit Card,2.1
+489,2023-07-02,Sunday,7,1,Store_A,Beauty,3795.79,16,10,6073.26,54659.38,18,Female,Debit Card,3.4
+490,2022-01-08,Saturday,1,1,Store_C,Furniture,33527.13,18,15,90523.25,512965.09,43,Male,Credit Card,3.9
+491,2023-10-24,Tuesday,10,0,Store_D,Books,408.83,3,15,183.97,1042.52,58,Male,Debit Card,2.1
+492,2023-06-29,Thursday,6,0,Store_C,Books,363.2,3,5,54.48,1035.12,26,Female,Cash,3.5
+493,2023-09-25,Monday,9,0,Store_D,Toys,2131.37,16,5,1705.1,32396.82,38,Male,Credit Card,1.2
+494,2023-07-02,Sunday,7,1,Store_A,Groceries,1946.05,10,10,1946.05,17514.45,26,Female,Cash,1.9
+495,2022-06-04,Saturday,6,1,Store_A,Beauty,986.17,14,10,1380.64,12425.74,68,Female,Debit Card,2.9
+496,2022-02-02,Wednesday,2,0,Store_C,Clothing,4249.02,5,0,0.0,21245.1,35,Female,Cash,3.2
+497,2022-07-05,Tuesday,7,0,Store_B,Toys,2470.03,1,0,0.0,2470.03,67,Male,UPI,4.1
+498,2023-03-30,Thursday,3,0,Store_B,Electronics,10359.4,4,20,8287.52,33150.08,60,Male,UPI,2.6
+499,2022-11-16,Wednesday,11,0,Store_C,Groceries,1276.87,6,25,638.43,7022.79,53,Male,Debit Card,2.9
+500,2022-07-23,Saturday,7,1,Store_C,Electronics,43251.05,7,0,0.0,302757.35,33,Female,Debit Card,1.1
+501,2022-10-10,Monday,10,0,Store_A,Books,1204.8,1,0,0.0,1204.8,55,Female,Credit Card,2.5
+502,2022-04-02,Saturday,4,1,Store_B,Groceries,1024.84,20,10,2049.68,18447.12,66,Male,Cash,2.4
+503,2022-06-07,Tuesday,6,0,Store_A,Groceries,1001.29,11,20,2202.84,8811.35,68,Female,UPI,3.9
+504,2022-01-22,Saturday,1,1,Store_D,Sports,10948.67,9,0,0.0,98538.03,49,Female,Debit Card,3.2
+505,2023-05-17,Wednesday,5,0,Store_B,Groceries,1110.06,11,25,3052.66,9158.0,47,Female,Credit Card,1.3
+506,2022-06-08,Wednesday,6,0,Store_D,Toys,2476.31,18,10,4457.36,40116.22,47,Male,UPI,3.9
+507,2022-01-20,Thursday,1,0,Store_C,Furniture,26334.83,3,25,19751.12,59253.37,52,Female,Credit Card,3.1
+508,2023-05-25,Thursday,5,0,Store_B,Toys,1035.54,11,0,0.0,11390.94,24,Male,Cash,4.3
+509,2022-05-13,Friday,5,0,Store_B,Electronics,10502.91,16,5,8402.33,159644.23,24,Male,UPI,3.6
+510,2023-06-23,Friday,6,0,Store_C,Electronics,18634.52,20,25,93172.6,279517.8,22,Male,Credit Card,3.6
+511,2022-03-23,Wednesday,3,0,Store_D,Electronics,18365.84,14,30,77136.53,179985.23,41,Male,Debit Card,3.1
+512,2022-03-14,Monday,3,0,Store_C,Clothing,4734.1,17,0,0.0,80479.7,24,Male,UPI,1.8
+513,2023-06-23,Friday,6,0,Store_B,Groceries,1138.93,18,15,3075.11,17425.63,65,Male,Debit Card,3.7
+514,2023-12-21,Thursday,12,0,Store_D,Clothing,1000.68,11,20,1200.82,9806.66,43,Female,Credit Card,3.1
+515,2022-12-27,Tuesday,12,0,Store_C,Sports,12719.35,17,30,53421.27,162807.68,58,Female,Debit Card,3.4
+516,2023-01-20,Friday,1,0,Store_C,Sports,14436.28,15,15,32481.63,184062.57,18,Male,Debit Card,3.4
+517,2023-06-15,Thursday,6,0,Store_B,Toys,119.05,8,5,47.62,904.78,38,Male,Debit Card,4.7
+518,2023-06-08,Thursday,6,0,Store_B,Clothing,381.13,12,5,228.68,4344.88,26,Female,Debit Card,4.6
+519,2022-09-13,Tuesday,9,0,Store_B,Toys,2452.12,3,20,1471.27,5885.09,43,Male,Cash,3.9
+520,2023-05-10,Wednesday,5,0,Store_B,Beauty,3328.97,19,30,18975.13,44275.3,24,Female,Cash,3.9
+521,2023-08-14,Monday,8,0,Store_D,Clothing,3944.59,11,10,4339.05,39051.44,70,Female,UPI,4.7
+522,2022-05-04,Wednesday,5,0,Store_B,Electronics,31877.41,13,0,0.0,414406.33,37,Male,Debit Card,3.2
+523,2022-06-03,Friday,6,0,Store_C,Furniture,13102.6,13,15,25550.07,144783.73,66,Male,Credit Card,2.7
+524,2023-02-08,Wednesday,2,0,Store_B,Groceries,705.53,16,20,2257.7,9030.78,65,Male,UPI,2.1
+525,2023-02-13,Monday,2,0,Store_D,Groceries,1535.96,16,20,4915.07,19660.29,30,Female,UPI,3.6
+526,2022-07-20,Wednesday,7,0,Store_B,Furniture,6659.87,14,10,9323.82,83914.36,61,Male,Cash,3.7
+527,2023-03-10,Friday,3,0,Store_C,Sports,3100.2,12,20,7440.48,29761.92,59,Male,Debit Card,1.7
+528,2022-12-25,Sunday,12,1,Store_D,Groceries,908.9,10,5,363.56,8725.44,61,Female,Credit Card,4.0
+529,2022-04-26,Tuesday,4,0,Store_A,Furniture,75966.33,5,30,113949.49,265882.16,70,Female,Cash,2.4
+530,2022-04-24,Sunday,4,1,Store_C,Beauty,1964.08,11,5,1080.24,20524.64,65,Male,Credit Card,3.2
+531,2022-09-22,Thursday,9,0,Store_D,Groceries,1405.39,1,15,210.81,1194.58,55,Male,Debit Card,1.7
+532,2022-10-18,Tuesday,10,0,Store_B,Toys,253.95,1,0,0.0,253.95,42,Female,Debit Card,4.5
+533,2022-01-20,Thursday,1,0,Store_C,Books,423.64,13,20,1101.46,4405.86,63,Male,Debit Card,2.9
+534,2023-09-04,Monday,9,0,Store_A,Groceries,437.81,15,20,1313.43,5253.72,63,Male,Cash,2.0
+535,2023-06-27,Tuesday,6,0,Store_C,Sports,7502.01,6,0,0.0,45012.06,40,Female,Debit Card,3.5
+536,2022-08-30,Tuesday,8,0,Store_C,Electronics,31476.72,13,30,122759.21,286438.15,19,Female,Credit Card,1.6
+537,2023-02-07,Tuesday,2,0,Store_B,Clothing,3703.47,17,25,15739.75,47219.24,57,Male,UPI,2.0
+538,2022-06-06,Monday,6,0,Store_D,Toys,2738.23,11,15,4518.08,25602.45,52,Male,Credit Card,3.6
+539,2023-08-18,Friday,8,0,Store_B,Groceries,652.55,17,5,554.67,10538.68,45,Male,Credit Card,2.3
+540,2023-07-25,Tuesday,7,0,Store_A,Groceries,669.32,5,25,836.65,2509.95,19,Female,UPI,4.8
+541,2022-11-07,Monday,11,0,Store_D,Toys,540.68,11,0,0.0,5947.48,26,Male,Cash,4.0
+542,2023-09-13,Wednesday,9,0,Store_B,Furniture,19242.08,1,10,1924.21,17317.87,23,Female,Credit Card,3.0
+543,2023-09-12,Tuesday,9,0,Store_D,Sports,3004.45,13,15,5858.68,33199.17,48,Male,Credit Card,1.8
+544,2022-02-03,Thursday,2,0,Store_D,Electronics,46309.04,14,5,32416.33,615910.23,65,Male,Credit Card,1.3
+545,2023-03-26,Sunday,3,1,Store_D,Sports,13041.59,8,15,15649.91,88682.81,43,Male,UPI,3.9
+546,2023-02-08,Wednesday,2,0,Store_A,Clothing,2367.73,2,5,236.77,4498.69,51,Female,Cash,3.2
+547,2023-06-13,Tuesday,6,0,Store_A,Furniture,24003.17,13,10,31204.12,280837.09,67,Female,UPI,1.7
+548,2022-10-29,Saturday,10,1,Store_A,Groceries,953.98,15,0,0.0,14309.7,64,Male,Credit Card,4.1
+549,2023-12-14,Thursday,12,0,Store_B,Books,678.98,17,0,0.0,11542.66,29,Female,Credit Card,4.5
+550,2022-09-14,Wednesday,9,0,Store_C,Groceries,1450.83,4,0,0.0,5803.32,25,Female,Debit Card,1.3
+551,2023-12-26,Tuesday,12,0,Store_D,Groceries,788.42,16,0,0.0,12614.72,67,Male,Debit Card,3.3
+552,2022-06-16,Thursday,6,0,Store_B,Groceries,1549.86,2,15,464.96,2634.76,37,Female,UPI,2.2
+553,2022-07-05,Tuesday,7,0,Store_A,Groceries,1922.85,1,20,384.57,1538.28,66,Female,Cash,2.8
+554,2023-05-26,Friday,5,0,Store_A,Beauty,1065.83,19,25,5062.69,15188.08,48,Female,UPI,2.8
+555,2023-09-08,Friday,9,0,Store_A,Furniture,70691.26,9,20,127244.27,508977.07,58,Male,Cash,1.7
+556,2022-02-26,Saturday,2,1,Store_C,Electronics,7696.03,2,25,3848.01,11544.05,54,Female,Debit Card,4.7
+557,2022-02-20,Sunday,2,1,Store_A,Books,1491.23,6,25,2236.85,6710.53,36,Male,UPI,4.0
+558,2023-01-04,Wednesday,1,0,Store_A,Clothing,3888.86,11,10,4277.75,38499.71,42,Male,UPI,4.4
+559,2022-03-08,Tuesday,3,0,Store_C,Beauty,668.0,9,10,601.2,5410.8,51,Female,Credit Card,3.8
+560,2023-09-19,Tuesday,9,0,Store_A,Clothing,2942.56,17,0,0.0,50023.52,48,Female,UPI,3.4
+561,2022-11-21,Monday,11,0,Store_C,Sports,13928.45,20,20,55713.8,222855.2,49,Female,UPI,4.2
+562,2023-12-27,Wednesday,12,0,Store_C,Furniture,1124.89,6,15,168.73,6580.61,58,Male,Credit Card,4.2
+563,2023-02-28,Tuesday,2,0,Store_A,Sports,5439.86,7,0,0.0,38079.02,58,Male,Debit Card,2.0
+564,2022-03-11,Friday,3,0,Store_C,Toys,1569.4,11,30,5179.02,12084.38,18,Male,Debit Card,2.4
+565,2023-08-06,Sunday,8,1,Store_A,Groceries,428.33,11,25,1177.91,3533.72,48,Female,Cash,3.6
+566,2023-05-09,Tuesday,5,0,Store_B,Beauty,3584.42,18,10,6451.96,58067.6,47,Female,Cash,4.3
+567,2022-11-03,Thursday,11,0,Store_C,Electronics,10808.99,15,30,35669.67,126465.18,68,Female,Cash,4.9
+568,2022-02-01,Tuesday,2,0,Store_C,Books,977.12,6,20,1172.54,4690.18,56,Female,Credit Card,3.4
+569,2022-11-12,Saturday,11,1,Store_C,Electronics,13939.12,7,15,6272.6,91301.24,33,Female,UPI,4.3
+570,2022-08-10,Wednesday,8,0,Store_C,Groceries,268.85,2,30,161.31,376.39,30,Male,UPI,3.0
+571,2023-05-10,Wednesday,5,0,Store_B,Furniture,27869.16,16,25,111476.64,334429.92,51,Female,Debit Card,1.6
+572,2022-04-11,Monday,4,0,Store_B,Furniture,58241.08,15,15,131042.43,742573.77,63,Male,Cash,2.2
+573,2022-02-15,Tuesday,2,0,Store_A,Sports,7163.08,2,0,0.0,14326.16,51,Female,Cash,3.3
+574,2022-11-16,Wednesday,11,0,Store_B,Sports,3248.17,14,10,3248.17,42226.21,52,Female,UPI,3.7
+575,2022-06-02,Thursday,6,0,Store_B,Toys,431.94,20,20,1727.76,6911.04,50,Male,Credit Card,3.2
+576,2023-07-17,Monday,7,0,Store_C,Toys,510.51,10,20,1021.02,4084.08,33,Male,Cash,2.2
+577,2022-12-13,Tuesday,12,0,Store_D,Electronics,6938.66,20,25,27754.64,111018.56,21,Male,UPI,1.2
+578,2023-02-06,Monday,2,0,Store_B,Beauty,2522.81,10,10,2522.81,22705.29,70,Male,Cash,4.9
+579,2023-04-22,Saturday,4,1,Store_B,Clothing,4101.68,15,0,0.0,61525.2,47,Female,UPI,2.9
+580,2022-08-18,Thursday,8,0,Store_B,Toys,2747.3,13,5,1785.74,33929.16,62,Female,Debit Card,2.8
+581,2022-01-31,Monday,1,0,Store_A,Beauty,584.62,16,15,1403.09,7950.83,28,Female,Debit Card,3.4
+582,2022-05-11,Wednesday,5,0,Store_A,Books,1244.57,4,10,497.83,4480.45,53,Male,Debit Card,3.1
+583,2023-02-15,Wednesday,2,0,Store_D,Furniture,50049.11,18,5,45044.2,855839.78,48,Female,Cash,2.4
+584,2023-12-12,Tuesday,12,0,Store_D,Books,894.1,13,20,1967.02,9656.28,62,Male,Credit Card,3.7
+585,2023-12-30,Saturday,12,1,Store_D,Clothing,3042.38,20,10,4563.57,56284.03,53,Male,UPI,1.7
+586,2022-03-13,Sunday,3,1,Store_A,Books,558.37,2,0,0.0,1116.74,31,Male,Cash,4.0
+587,2023-11-08,Wednesday,11,0,Store_B,Beauty,2195.33,17,20,5707.86,31612.75,54,Female,Credit Card,1.8
+588,2022-11-03,Thursday,11,0,Store_C,Books,1104.91,16,0,0.0,17678.56,55,Male,UPI,4.4
+589,2022-03-05,Saturday,3,1,Store_C,Electronics,541.74,18,30,2925.4,6825.92,40,Male,Debit Card,4.5
+590,2022-08-29,Monday,8,0,Store_D,Books,975.3,13,15,1901.84,10777.06,42,Female,Credit Card,3.6
+591,2023-05-02,Tuesday,5,0,Store_B,Furniture,44878.3,12,30,161561.88,376977.72,44,Male,Debit Card,5.0
+592,2023-11-18,Saturday,11,1,Store_B,Groceries,72.63,4,5,3.63,286.89,64,Female,UPI,4.9
+593,2022-03-28,Monday,3,0,Store_B,Books,1304.21,20,15,3912.63,22171.57,57,Male,UPI,3.0
+594,2023-07-20,Thursday,7,0,Store_D,Books,597.43,6,15,537.69,3046.89,56,Male,UPI,4.4
+595,2022-08-31,Wednesday,8,0,Store_C,Books,1397.19,19,10,2654.66,23891.95,20,Male,UPI,3.8
+596,2022-04-26,Tuesday,4,0,Store_D,Clothing,882.02,17,30,4498.3,10496.04,66,Female,UPI,3.1
+597,2023-06-20,Tuesday,6,0,Store_A,Furniture,38323.67,3,25,28742.75,86228.26,58,Female,Cash,4.6
+598,2023-07-02,Sunday,7,1,Store_A,Beauty,1898.03,16,20,6073.7,24294.78,64,Female,UPI,2.4
+599,2022-10-29,Saturday,10,1,Store_C,Groceries,118.89,20,25,594.45,1783.35,37,Female,Cash,3.5
+600,2023-08-16,Wednesday,8,0,Store_B,Electronics,32987.83,10,30,98963.49,230914.81,65,Male,Debit Card,2.9
+601,2022-05-10,Tuesday,5,0,Store_A,Toys,830.95,20,10,1661.9,14957.1,35,Female,Cash,4.0
+602,2023-09-11,Monday,9,0,Store_B,Groceries,1335.35,12,30,4807.26,11216.94,29,Female,Credit Card,2.9
+603,2023-06-25,Sunday,6,1,Store_A,Sports,14765.85,5,20,14765.85,59063.4,70,Male,UPI,4.0
+604,2023-02-27,Monday,2,0,Store_D,Furniture,53192.72,6,5,15957.82,303198.5,54,Female,Cash,3.6
+605,2022-04-29,Friday,4,0,Store_A,Groceries,954.83,16,10,1527.73,13749.55,48,Male,UPI,3.7
+606,2023-02-04,Saturday,2,1,Store_D,Toys,520.93,14,0,0.0,7293.02,36,Female,UPI,3.7
+607,2023-06-27,Tuesday,6,0,Store_A,Clothing,4605.02,12,30,16578.07,38682.17,45,Female,Debit Card,2.1
+608,2022-04-11,Monday,4,0,Store_C,Books,745.55,8,25,1491.1,4473.3,61,Male,Debit Card,3.7
+609,2022-07-04,Monday,7,0,Store_C,Electronics,33803.69,3,0,0.0,101411.07,44,Male,Cash,3.7
+610,2022-12-26,Monday,12,0,Store_B,Toys,830.5,5,0,0.0,4152.5,57,Male,Cash,4.8
+611,2023-09-06,Wednesday,9,0,Store_A,Clothing,614.65,20,5,614.65,11678.35,42,Male,Cash,3.8
+612,2022-09-17,Saturday,9,1,Store_C,Beauty,2692.84,3,25,2019.63,6058.89,47,Female,UPI,3.8
+613,2023-11-15,Wednesday,11,0,Store_C,Toys,569.7,5,10,170.91,2677.59,67,Male,UPI,2.6
+614,2022-09-22,Thursday,9,0,Store_C,Groceries,909.12,16,5,727.3,13818.62,57,Female,Credit Card,3.6
+615,2022-04-22,Friday,4,0,Store_B,Books,405.74,4,15,243.44,1379.52,63,Female,Cash,1.1
+616,2022-03-14,Monday,3,0,Store_C,Beauty,222.24,16,5,177.79,3378.05,59,Male,Cash,3.7
+617,2022-09-30,Friday,9,0,Store_B,Sports,13597.88,19,0,0.0,258359.72,50,Female,UPI,2.7
+618,2022-03-13,Sunday,3,1,Store_B,Electronics,19528.98,16,0,0.0,312463.68,54,Female,Debit Card,3.7
+619,2023-02-15,Wednesday,2,0,Store_A,Clothing,1953.71,11,0,0.0,21490.81,47,Female,Credit Card,1.7
+620,2022-02-10,Thursday,2,0,Store_D,Furniture,24610.76,13,0,0.0,319939.88,58,Female,UPI,1.3
+621,2023-10-10,Tuesday,10,0,Store_D,Furniture,12055.49,7,0,0.0,84388.43,64,Male,UPI,2.6
+622,2023-07-08,Saturday,7,1,Store_C,Beauty,2205.67,15,0,0.0,33085.05,20,Female,Cash,2.4
+623,2022-02-13,Sunday,2,1,Store_D,Clothing,1216.06,17,15,3100.95,17572.07,61,Male,Credit Card,4.7
+624,2022-02-07,Monday,2,0,Store_B,Beauty,2667.25,16,20,8535.2,34140.8,20,Male,Credit Card,1.1
+625,2023-10-10,Tuesday,10,0,Store_A,Toys,2480.14,4,15,1488.08,8432.48,57,Male,Cash,4.3
+626,2022-04-19,Tuesday,4,0,Store_A,Beauty,2440.66,20,5,2440.66,46372.54,22,Male,UPI,2.3
+627,2023-11-26,Sunday,11,1,Store_D,Sports,2075.8,20,20,7888.04,33627.96,26,Female,Credit Card,4.1
+628,2022-12-10,Saturday,12,1,Store_A,Clothing,1514.69,16,5,1060.28,23174.76,62,Female,Credit Card,2.8
+629,2022-05-17,Tuesday,5,0,Store_A,Books,1188.73,1,15,178.31,1010.42,23,Male,Cash,1.7
+630,2022-04-02,Saturday,4,1,Store_C,Books,1070.9,16,25,4283.6,12850.8,26,Male,Credit Card,3.6
+631,2023-06-20,Tuesday,6,0,Store_D,Books,434.96,6,20,521.95,2087.81,62,Male,Credit Card,3.9
+632,2023-09-19,Tuesday,9,0,Store_A,Toys,1108.78,1,20,221.76,887.02,33,Male,Cash,4.9
+633,2022-04-08,Friday,4,0,Store_C,Furniture,37673.06,7,10,26371.14,237340.28,21,Male,Cash,4.2
+634,2023-12-03,Sunday,12,1,Store_D,Beauty,828.85,6,0,0.0,4973.1,59,Female,Debit Card,1.8
+635,2022-12-09,Friday,12,0,Store_D,Electronics,5668.84,4,20,2267.54,20407.82,29,Male,Cash,2.9
+636,2022-03-14,Monday,3,0,Store_B,Beauty,2431.92,11,15,4012.67,22738.45,30,Female,Credit Card,4.1
+637,2022-11-30,Wednesday,11,0,Store_B,Clothing,1338.17,19,30,5620.31,19804.92,30,Female,Credit Card,1.3
+638,2022-02-25,Friday,2,0,Store_D,Groceries,471.52,20,15,1414.56,8015.84,29,Female,Debit Card,1.5
+639,2022-07-18,Monday,7,0,Store_C,Toys,686.41,5,0,0.0,3432.05,62,Male,Debit Card,1.5
+640,2023-04-22,Saturday,4,1,Store_D,Books,339.68,11,5,186.82,3549.66,36,Male,Credit Card,3.3
+641,2023-07-21,Friday,7,0,Store_B,Clothing,2176.14,17,15,5549.16,31445.22,31,Female,UPI,2.1
+642,2023-03-15,Wednesday,3,0,Store_B,Furniture,26856.38,19,5,25513.56,484757.66,55,Male,Cash,2.7
+643,2022-02-15,Tuesday,2,0,Store_A,Beauty,2973.88,17,0,0.0,50555.96,45,Female,UPI,4.2
+644,2023-12-15,Friday,12,0,Store_A,Beauty,2056.85,6,20,1234.11,11106.99,66,Male,UPI,4.8
+645,2023-01-03,Tuesday,1,0,Store_C,Furniture,52163.58,3,0,0.0,156490.74,48,Female,Credit Card,3.8
+646,2023-08-08,Tuesday,8,0,Store_A,Beauty,1935.48,5,30,2903.22,6774.18,63,Female,Credit Card,4.2
+647,2023-01-15,Sunday,1,1,Store_D,Electronics,43088.94,3,15,19390.02,109876.8,62,Female,Cash,2.2
+648,2022-10-04,Tuesday,10,0,Store_B,Clothing,3178.19,11,25,8740.02,26220.07,21,Female,Cash,1.4
+649,2023-01-10,Tuesday,1,0,Store_D,Electronics,18595.77,6,25,27893.65,83680.97,53,Male,Credit Card,1.6
+650,2022-12-09,Friday,12,0,Store_B,Clothing,3315.38,20,30,18897.67,47409.93,62,Male,Credit Card,2.3
+651,2023-05-31,Wednesday,5,0,Store_D,Toys,257.93,12,10,309.52,2785.64,46,Female,Cash,2.9
+652,2023-06-29,Thursday,6,0,Store_C,Beauty,2540.66,3,5,381.1,7240.88,47,Male,Cash,2.6
+653,2022-07-03,Sunday,7,1,Store_C,Clothing,724.95,9,0,0.0,6524.55,62,Male,UPI,1.6
+654,2022-07-29,Friday,7,0,Store_A,Toys,1307.96,18,5,1177.16,22366.12,48,Female,UPI,2.8
+655,2023-10-23,Monday,10,0,Store_A,Toys,648.28,1,30,194.48,453.8,69,Male,Debit Card,2.6
+656,2022-12-18,Sunday,12,1,Store_C,Beauty,2434.43,20,30,12415.59,36273.01,53,Female,UPI,2.2
+657,2022-11-10,Thursday,11,0,Store_B,Toys,757.67,17,10,909.2,11971.19,67,Male,Credit Card,2.4
+658,2022-06-20,Monday,6,0,Store_B,Toys,628.61,6,30,1131.5,2640.16,63,Male,Credit Card,2.0
+659,2022-02-12,Saturday,2,1,Store_C,Groceries,909.73,12,5,545.84,10370.92,31,Male,Debit Card,4.9
+660,2022-06-01,Wednesday,6,0,Store_C,Beauty,2228.49,6,20,2674.19,10696.75,37,Male,Cash,2.6
+661,2023-05-27,Saturday,5,1,Store_B,Beauty,3722.07,5,0,0.0,18610.35,65,Female,Debit Card,2.9
+662,2022-10-24,Monday,10,0,Store_B,Beauty,1453.94,4,25,1453.94,4361.82,48,Male,Credit Card,3.7
+663,2022-04-30,Saturday,4,1,Store_C,Electronics,20380.68,8,15,24456.82,138588.62,40,Male,Debit Card,1.2
+664,2023-10-19,Thursday,10,0,Store_B,Furniture,62721.39,9,5,28224.63,536267.88,19,Male,UPI,3.7
+665,2022-03-31,Thursday,3,0,Store_D,Furniture,39746.76,20,20,158987.04,635948.16,50,Male,Debit Card,2.6
+666,2023-03-14,Tuesday,3,0,Store_C,Books,621.96,10,10,621.96,5597.64,40,Female,UPI,4.5
+667,2022-03-31,Thursday,3,0,Store_B,Beauty,3004.88,14,30,12620.5,29447.82,46,Female,Credit Card,4.2
+668,2023-03-11,Saturday,3,1,Store_D,Groceries,1679.25,20,0,0.0,33585.0,27,Male,Debit Card,2.9
+669,2023-06-22,Thursday,6,0,Store_C,Clothing,4679.13,19,30,26671.04,62232.43,42,Male,Cash,2.6
+670,2022-10-07,Friday,10,0,Store_D,Groceries,1133.84,19,30,6462.89,15080.07,26,Male,Credit Card,4.3
+671,2022-10-24,Monday,10,0,Store_D,Electronics,41228.56,10,30,123685.68,288599.92,55,Female,UPI,3.2
+672,2023-04-20,Thursday,4,0,Store_B,Electronics,39665.37,5,10,19832.69,178494.16,37,Female,Cash,3.6
+673,2022-10-22,Saturday,10,1,Store_D,Groceries,1009.18,8,0,0.0,8073.44,25,Female,UPI,5.0
+674,2022-03-10,Thursday,3,0,Store_C,Beauty,2327.46,9,25,5236.78,15710.36,61,Female,Cash,2.5
+675,2023-08-13,Sunday,8,1,Store_A,Toys,572.26,2,5,57.23,1087.29,38,Female,Credit Card,2.4
+676,2022-02-24,Thursday,2,0,Store_C,Sports,6466.86,12,0,0.0,77602.32,36,Female,Cash,3.1
+677,2023-10-06,Friday,10,0,Store_B,Clothing,3074.06,6,20,3688.87,14755.49,38,Female,Debit Card,2.1
+678,2023-12-16,Saturday,12,1,Store_C,Clothing,2765.22,16,30,9954.79,34288.73,27,Male,Credit Card,3.1
+679,2023-05-12,Friday,5,0,Store_D,Sports,13837.34,6,0,0.0,83024.04,31,Male,Credit Card,4.3
+680,2023-07-27,Thursday,7,0,Store_A,Books,744.69,3,0,0.0,2234.07,70,Male,Cash,2.9
+681,2022-11-16,Wednesday,11,0,Store_C,Groceries,1643.23,20,20,6572.92,26291.68,66,Female,Credit Card,3.8
+682,2022-05-02,Monday,5,0,Store_B,Groceries,1720.79,5,25,2150.99,6452.96,32,Female,Credit Card,1.8
+683,2022-03-22,Tuesday,3,0,Store_D,Clothing,573.13,16,30,2751.02,6419.06,45,Male,Credit Card,1.4
+684,2023-11-07,Tuesday,11,0,Store_A,Beauty,607.85,11,0,0.0,6686.35,22,Female,Cash,4.0
+685,2023-09-09,Saturday,9,1,Store_B,Furniture,15597.76,12,0,0.0,187173.12,23,Male,Debit Card,4.8
+686,2022-12-23,Friday,12,0,Store_C,Groceries,1717.52,20,5,1717.52,32632.88,50,Male,Cash,4.3
+687,2023-06-26,Monday,6,0,Store_B,Furniture,77176.84,6,30,138918.31,324142.73,52,Male,Cash,4.7
+688,2023-06-01,Thursday,6,0,Store_D,Sports,10562.55,6,15,9506.29,53869.01,61,Male,Credit Card,4.3
+689,2023-01-24,Tuesday,1,0,Store_D,Furniture,41625.83,14,0,0.0,582761.62,66,Female,Cash,2.9
+690,2023-06-17,Saturday,6,1,Store_B,Beauty,3084.75,10,20,6169.5,24678.0,64,Male,Cash,2.3
+691,2022-04-29,Friday,4,0,Store_D,Toys,1425.14,10,25,3562.85,10688.55,46,Male,UPI,2.2
+692,2023-03-15,Wednesday,3,0,Store_B,Clothing,4494.82,16,25,17979.28,53937.84,41,Male,Cash,5.0
+693,2023-05-19,Friday,5,0,Store_A,Books,713.28,3,0,0.0,2139.84,27,Female,UPI,3.8
+694,2022-04-15,Friday,4,0,Store_B,Clothing,1945.81,7,10,1362.07,12258.6,30,Female,Cash,1.9
+695,2023-03-11,Saturday,3,1,Store_D,Toys,2317.97,19,20,8808.29,35233.14,35,Female,Debit Card,2.9
+696,2023-09-10,Sunday,9,1,Store_D,Beauty,2118.95,5,30,3178.43,7416.32,47,Male,Cash,2.0
+697,2023-05-25,Thursday,5,0,Store_B,Groceries,107.96,2,30,64.78,151.14,22,Female,Cash,4.9
+698,2023-01-27,Friday,1,0,Store_C,Groceries,640.37,20,0,0.0,12807.4,66,Male,UPI,4.2
+699,2022-07-26,Tuesday,7,0,Store_C,Beauty,2037.46,9,20,3667.43,14669.71,39,Male,Cash,5.0
+700,2022-05-02,Monday,5,0,Store_D,Beauty,1361.05,13,15,2654.05,15039.6,47,Male,Cash,1.7
+701,2023-11-07,Tuesday,11,0,Store_C,Groceries,1008.39,10,10,504.19,9579.71,63,Female,UPI,4.1
+702,2023-11-07,Tuesday,11,0,Store_D,Beauty,2314.68,11,20,2777.62,22683.86,21,Female,Debit Card,3.0
+703,2023-09-24,Sunday,9,1,Store_C,Toys,1029.4,1,20,205.88,823.52,20,Male,Debit Card,2.4
+704,2023-08-21,Monday,8,0,Store_A,Sports,5894.43,14,10,8252.2,74269.82,40,Female,Debit Card,1.2
+705,2022-09-08,Thursday,9,0,Store_B,Furniture,52198.54,19,0,0.0,991772.26,62,Male,Debit Card,1.5
+706,2022-06-23,Thursday,6,0,Store_A,Sports,849.45,14,20,2378.46,9513.84,50,Female,Debit Card,1.1
+707,2023-04-26,Wednesday,4,0,Store_A,Sports,5852.74,13,10,7608.56,68477.06,54,Male,UPI,1.4
+708,2023-11-23,Thursday,11,0,Store_B,Sports,7601.95,14,5,4181.07,102246.23,57,Female,Debit Card,4.9
+709,2023-05-24,Wednesday,5,0,Store_A,Furniture,23701.09,2,10,4740.22,42661.96,54,Female,Credit Card,3.5
+710,2022-04-05,Tuesday,4,0,Store_A,Sports,4318.46,19,30,24615.22,57435.52,51,Female,UPI,1.8
+711,2022-03-20,Sunday,3,1,Store_C,Toys,1355.44,18,10,2439.79,21958.13,30,Female,UPI,2.0
+712,2023-06-12,Monday,6,0,Store_D,Groceries,1767.75,17,30,9015.52,21036.23,29,Female,Credit Card,3.6
+713,2023-04-24,Monday,4,0,Store_C,Books,1408.49,2,20,563.4,2253.58,30,Female,UPI,1.6
+714,2022-06-04,Saturday,6,1,Store_C,Books,674.36,3,25,505.77,1517.31,31,Female,Debit Card,4.3
+715,2023-10-24,Tuesday,10,0,Store_B,Toys,2091.88,8,15,2510.26,14224.78,33,Male,Credit Card,1.8
+716,2022-09-09,Friday,9,0,Store_C,Beauty,2018.72,14,15,4239.31,24022.77,59,Male,Credit Card,1.6
+717,2022-05-20,Friday,5,0,Store_A,Toys,2390.04,9,25,5377.59,16132.77,53,Male,Cash,4.9
+718,2023-05-13,Saturday,5,1,Store_A,Electronics,43049.41,3,10,12914.82,116233.41,56,Female,Cash,4.6
+719,2023-02-21,Tuesday,2,0,Store_C,Clothing,2105.1,5,5,526.27,9999.23,25,Male,Debit Card,3.0
+720,2022-04-03,Sunday,4,1,Store_B,Clothing,3911.32,11,10,4302.45,38722.07,55,Female,Credit Card,4.7
+721,2022-08-12,Friday,8,0,Store_B,Clothing,1040.74,9,15,1405.0,7961.66,44,Female,Cash,3.0
+722,2023-01-19,Thursday,1,0,Store_A,Sports,8322.45,16,25,33289.8,99869.4,33,Female,Credit Card,2.5
+723,2023-01-12,Thursday,1,0,Store_C,Electronics,32447.18,20,0,0.0,648943.6,65,Male,Credit Card,2.0
+724,2023-01-29,Sunday,1,1,Store_C,Sports,13576.41,4,20,10861.13,43444.51,33,Female,UPI,1.0
+725,2023-02-07,Tuesday,2,0,Store_C,Toys,361.73,8,10,289.38,2604.46,31,Male,UPI,3.5
+726,2023-10-22,Sunday,10,1,Store_D,Electronics,14064.81,3,30,12658.33,29536.1,67,Female,UPI,3.9
+727,2022-12-07,Wednesday,12,0,Store_D,Clothing,4157.12,13,20,7482.82,46559.74,22,Female,UPI,3.4
+728,2023-04-10,Monday,4,0,Store_A,Electronics,32247.95,6,25,48371.93,145115.77,46,Male,Cash,2.6
+729,2023-10-06,Friday,10,0,Store_C,Sports,8764.4,4,5,1752.88,33304.72,33,Male,UPI,4.2
+730,2022-11-24,Thursday,11,0,Store_D,Beauty,3513.0,10,10,1756.5,33373.5,29,Female,Debit Card,1.8
+731,2023-01-12,Thursday,1,0,Store_B,Books,1326.95,19,5,1260.6,23951.45,19,Male,Credit Card,4.6
+732,2023-04-19,Wednesday,4,0,Store_B,Toys,2133.66,6,0,0.0,12801.96,43,Female,Debit Card,1.6
+733,2023-01-12,Thursday,1,0,Store_B,Clothing,267.75,17,15,682.76,3868.99,67,Female,UPI,1.5
+734,2024-01-01,Monday,1,0,Store_B,Furniture,75738.13,9,10,68164.32,613478.85,65,Female,UPI,1.5
+735,2022-07-31,Sunday,7,1,Store_B,Toys,2207.45,7,15,2317.82,13134.33,29,Female,Credit Card,1.1
+736,2022-09-26,Monday,9,0,Store_B,Beauty,3643.21,12,20,8743.7,34974.82,61,Female,Cash,1.0
+737,2022-05-17,Tuesday,5,0,Store_C,Books,1061.59,13,25,3450.17,10350.5,45,Female,Cash,1.4
+738,2022-03-02,Wednesday,3,0,Store_A,Sports,13986.65,16,10,22378.64,201407.76,56,Male,Cash,2.0
+739,2023-09-27,Wednesday,9,0,Store_D,Toys,2934.82,12,5,1760.89,33456.95,53,Male,Credit Card,2.0
+740,2023-05-31,Wednesday,5,0,Store_D,Sports,13205.08,5,0,0.0,66025.4,38,Female,Credit Card,2.0
+741,2022-11-17,Thursday,11,0,Store_A,Groceries,1023.46,13,25,2302.78,11002.2,41,Female,Debit Card,4.6
+742,2023-09-20,Wednesday,9,0,Store_C,Sports,6705.9,6,10,4023.54,36211.86,65,Female,Credit Card,3.2
+743,2023-11-05,Sunday,11,1,Store_D,Electronics,9851.54,7,5,985.15,67975.63,29,Male,UPI,2.0
+744,2023-03-23,Thursday,3,0,Store_A,Beauty,307.05,12,25,921.15,2763.45,53,Female,UPI,3.0
+745,2022-06-01,Wednesday,6,0,Store_A,Sports,1675.59,10,5,837.79,15918.11,28,Female,Credit Card,3.3
+746,2022-01-05,Wednesday,1,0,Store_B,Books,1388.58,8,30,3332.59,7776.05,49,Male,Debit Card,1.1
+747,2023-11-29,Wednesday,11,0,Store_A,Books,622.98,9,30,747.58,4859.24,38,Male,Cash,1.3
+748,2023-04-10,Monday,4,0,Store_C,Electronics,16806.63,2,25,8403.32,25209.94,57,Female,Debit Card,4.8
+749,2023-08-06,Sunday,8,1,Store_B,Furniture,69199.03,10,10,69199.03,622791.27,69,Male,Cash,3.2
+750,2023-09-09,Saturday,9,1,Store_D,Clothing,2114.52,6,5,634.36,12052.76,67,Female,Cash,1.1
+751,2022-08-02,Tuesday,8,0,Store_B,Books,1191.29,10,25,2978.22,8934.68,66,Male,Cash,2.2
+752,2023-03-19,Sunday,3,1,Store_C,Groceries,750.14,4,30,900.17,2100.39,41,Male,UPI,2.8
+753,2023-02-02,Thursday,2,0,Store_D,Toys,1732.87,14,0,0.0,24260.18,66,Female,Debit Card,3.5
+754,2023-03-21,Tuesday,3,0,Store_D,Clothing,394.1,11,15,650.27,3684.83,61,Male,Credit Card,4.7
+755,2023-06-24,Saturday,6,1,Store_A,Toys,1457.84,3,30,1312.06,3061.46,48,Female,Credit Card,4.9
+756,2023-12-02,Saturday,12,1,Store_C,Furniture,42324.27,15,20,84648.54,550215.51,21,Male,Cash,3.1
+757,2023-02-27,Monday,2,0,Store_A,Beauty,2694.29,19,30,15357.45,35834.06,34,Female,Debit Card,3.3
+758,2023-05-31,Wednesday,5,0,Store_A,Clothing,3754.48,15,5,2815.86,53501.34,68,Male,UPI,1.2
+759,2023-03-03,Friday,3,0,Store_C,Sports,8931.96,15,30,40193.82,93785.58,60,Female,Debit Card,2.4
+760,2022-07-11,Monday,7,0,Store_B,Groceries,202.53,20,10,405.06,3645.54,61,Male,UPI,3.1
+761,2022-01-06,Thursday,1,0,Store_D,Clothing,263.86,16,15,633.26,3588.5,62,Female,UPI,2.2
+762,2023-09-24,Sunday,9,1,Store_C,Books,1226.5,3,5,183.97,3495.53,26,Male,Credit Card,1.4
+763,2022-01-17,Monday,1,0,Store_B,Electronics,10856.86,5,25,13571.08,40713.22,33,Female,Credit Card,1.3
+764,2023-04-20,Thursday,4,0,Store_B,Beauty,1774.24,4,5,354.85,6742.11,27,Female,UPI,2.9
+765,2023-04-06,Thursday,4,0,Store_B,Furniture,24291.68,13,0,0.0,315791.84,39,Male,Cash,3.5
+766,2024-01-01,Monday,1,0,Store_D,Books,1288.06,19,20,4894.63,19578.51,64,Female,Cash,2.9
+767,2023-05-13,Saturday,5,1,Store_D,Furniture,57428.94,17,0,0.0,976291.98,45,Female,Cash,2.1
+768,2023-10-26,Thursday,10,0,Store_D,Beauty,600.22,20,25,3001.1,9003.3,40,Female,UPI,1.1
+769,2022-10-22,Saturday,10,1,Store_B,Beauty,1473.81,8,20,2358.1,9432.38,32,Female,UPI,1.5
+770,2022-10-28,Friday,10,0,Store_D,Books,1266.31,12,30,4558.72,10637.0,48,Male,Credit Card,2.1
+771,2022-03-30,Wednesday,3,0,Store_D,Groceries,387.92,6,20,465.5,1862.02,49,Male,UPI,4.8
+772,2023-05-21,Sunday,5,1,Store_C,Furniture,17545.2,2,0,0.0,35090.4,40,Female,Debit Card,3.7
+773,2022-06-28,Tuesday,6,0,Store_A,Clothing,1821.13,4,20,1456.9,5827.62,32,Male,Credit Card,2.9
+774,2022-12-15,Thursday,12,0,Store_C,Electronics,38619.7,20,10,69515.46,702878.54,27,Male,Cash,4.7
+775,2023-04-14,Friday,4,0,Store_A,Clothing,3951.93,20,30,23711.58,55327.02,24,Male,Cash,1.7
+776,2022-05-01,Sunday,5,1,Store_B,Sports,2608.38,10,25,6520.95,19562.85,46,Female,Cash,1.6
+777,2023-01-08,Sunday,1,1,Store_C,Groceries,289.82,7,15,304.31,1724.43,44,Male,Credit Card,4.3
+778,2023-05-01,Monday,5,0,Store_C,Toys,1564.57,3,10,469.37,4224.34,41,Female,Debit Card,3.5
+779,2022-09-09,Friday,9,0,Store_B,Books,1202.1,5,30,1803.15,4207.35,45,Female,UPI,4.6
+780,2023-06-13,Tuesday,6,0,Store_C,Electronics,22407.65,1,25,5601.91,16805.74,69,Male,Cash,2.4
+781,2023-02-16,Thursday,2,0,Store_B,Books,186.06,2,25,93.03,279.09,59,Male,Cash,4.9
+782,2024-01-01,Monday,1,0,Store_C,Books,662.8,18,30,3579.12,8351.28,37,Female,Debit Card,1.0
+783,2022-10-14,Friday,10,0,Store_B,Books,724.66,7,20,1014.52,4058.1,57,Female,Debit Card,4.6
+784,2023-10-27,Friday,10,0,Store_D,Furniture,70597.0,3,0,0.0,211791.0,52,Female,UPI,3.9
+785,2022-05-10,Tuesday,5,0,Store_C,Furniture,8332.75,18,10,14998.95,134990.55,51,Female,Credit Card,1.1
+786,2023-07-07,Friday,7,0,Store_C,Furniture,66746.09,10,25,166865.22,500595.68,45,Male,Cash,4.4
+787,2022-09-23,Friday,9,0,Store_C,Clothing,429.12,4,15,257.47,1459.01,37,Male,UPI,2.4
+788,2022-08-30,Tuesday,8,0,Store_B,Sports,4698.26,19,25,22316.74,66950.2,26,Female,Credit Card,1.4
+789,2023-06-13,Tuesday,6,0,Store_B,Sports,6978.35,5,25,8722.94,26168.81,45,Female,Cash,1.4
+790,2023-03-12,Sunday,3,1,Store_B,Beauty,976.92,3,10,293.08,2637.68,61,Female,UPI,4.5
+791,2023-08-22,Tuesday,8,0,Store_D,Books,1495.12,16,25,5980.48,17941.44,44,Male,Credit Card,3.0
+792,2023-05-12,Friday,5,0,Store_D,Groceries,1937.66,17,30,9882.07,23058.15,51,Male,Credit Card,2.8
+793,2022-02-03,Thursday,2,0,Store_B,Sports,13848.95,4,20,11079.16,44316.64,44,Male,Cash,2.5
+794,2022-10-24,Monday,10,0,Store_A,Groceries,279.6,10,10,279.6,2516.4,37,Female,UPI,1.1
+795,2022-05-27,Friday,5,0,Store_B,Books,168.11,10,10,168.11,1512.99,31,Male,UPI,1.0
+796,2023-07-15,Saturday,7,1,Store_C,Clothing,4378.05,14,15,9193.91,52098.79,54,Female,UPI,4.6
+797,2023-01-22,Sunday,1,1,Store_D,Groceries,1535.8,17,25,6527.15,19581.45,47,Female,UPI,1.6
+798,2022-11-30,Wednesday,11,0,Store_A,Books,642.13,15,10,834.77,8797.18,52,Male,UPI,3.9
+799,2022-06-19,Sunday,6,1,Store_A,Toys,1727.03,4,25,1727.03,5181.09,53,Male,Credit Card,4.8
+800,2023-07-09,Sunday,7,1,Store_A,Furniture,60294.13,17,0,0.0,1025000.21,25,Male,Cash,2.1
+801,2022-07-30,Saturday,7,1,Store_B,Beauty,475.89,18,20,1713.2,6852.82,38,Female,Cash,3.0
+802,2022-01-24,Monday,1,0,Store_C,Books,352.71,1,30,105.81,246.9,51,Female,UPI,2.0
+803,2022-04-28,Thursday,4,0,Store_A,Groceries,606.44,6,10,363.86,3274.78,67,Male,Credit Card,2.2
+804,2023-02-22,Wednesday,2,0,Store_B,Electronics,30916.53,11,5,17004.09,323077.74,19,Male,Debit Card,2.6
+805,2022-11-24,Thursday,11,0,Store_B,Books,1350.22,12,15,1822.8,14379.84,70,Male,Cash,1.8
+806,2023-05-20,Saturday,5,1,Store_D,Clothing,1492.58,11,15,2462.76,13955.62,53,Female,Cash,2.9
+807,2023-02-22,Wednesday,2,0,Store_B,Electronics,13823.41,19,25,65661.2,196983.59,24,Male,Credit Card,2.2
+808,2023-02-21,Tuesday,2,0,Store_D,Clothing,4262.13,17,5,3622.81,68833.4,68,Male,Debit Card,3.2
+809,2022-06-22,Wednesday,6,0,Store_B,Books,1445.89,18,15,3903.9,22122.12,20,Male,UPI,4.8
+810,2023-09-28,Thursday,9,0,Store_C,Groceries,51.06,16,10,81.7,735.26,56,Female,UPI,5.0
+811,2023-10-10,Tuesday,10,0,Store_B,Toys,231.91,18,20,834.88,3339.5,22,Female,Cash,2.6
+812,2022-05-06,Friday,5,0,Store_B,Toys,2647.01,7,20,3705.81,14823.26,50,Female,Debit Card,3.5
+813,2023-12-26,Tuesday,12,0,Store_D,Toys,813.19,14,10,894.51,10490.15,31,Female,Debit Card,1.1
+814,2023-10-24,Tuesday,10,0,Store_A,Beauty,166.48,1,25,41.62,124.86,29,Female,UPI,4.0
+815,2023-07-06,Thursday,7,0,Store_A,Clothing,2785.52,15,25,10445.7,31337.1,25,Female,UPI,4.3
+816,2023-01-02,Monday,1,0,Store_D,Groceries,1686.33,1,0,0.0,1686.33,47,Female,Credit Card,2.8
+817,2022-08-15,Monday,8,0,Store_A,Toys,2073.61,12,5,1244.17,23639.15,23,Female,Credit Card,1.9
+818,2023-05-21,Sunday,5,1,Store_C,Electronics,14397.44,20,5,14397.44,273551.36,18,Male,UPI,1.4
+819,2022-10-12,Wednesday,10,0,Store_D,Groceries,1125.98,19,25,5348.4,16045.22,61,Male,Cash,3.4
+820,2022-03-08,Tuesday,3,0,Store_B,Toys,2807.33,8,20,4491.73,17966.91,64,Female,Credit Card,4.4
+821,2022-01-24,Monday,1,0,Store_C,Beauty,157.53,14,25,551.36,1654.06,61,Male,Debit Card,2.7
+822,2023-02-21,Tuesday,2,0,Store_C,Clothing,3464.83,15,15,7795.87,44176.58,41,Male,Credit Card,1.2
+823,2023-03-07,Tuesday,3,0,Store_D,Sports,375.84,7,10,263.09,2367.79,23,Male,Credit Card,4.9
+824,2023-03-10,Friday,3,0,Store_A,Furniture,16553.27,11,10,18208.6,163877.37,22,Male,Cash,2.9
+825,2022-01-25,Tuesday,1,0,Store_C,Toys,816.75,16,5,653.4,12414.6,39,Male,Debit Card,3.1
+826,2022-08-31,Wednesday,8,0,Store_A,Beauty,3091.78,15,20,9275.34,37101.36,25,Male,Cash,4.7
+827,2023-01-22,Sunday,1,1,Store_C,Clothing,3956.7,2,30,2374.02,5539.38,46,Male,Debit Card,3.4
+828,2023-03-19,Sunday,3,1,Store_A,Clothing,3452.31,18,0,0.0,62141.58,36,Female,UPI,1.4
+829,2023-02-25,Saturday,2,1,Store_B,Electronics,22943.86,15,30,103247.37,240910.53,45,Male,Debit Card,3.6
+830,2023-11-23,Thursday,11,0,Store_A,Beauty,2141.27,20,5,2034.21,40791.19,24,Male,Cash,3.4
+831,2023-08-31,Thursday,8,0,Store_B,Groceries,1292.86,9,10,1163.57,10472.17,44,Female,UPI,1.7
+832,2022-05-21,Saturday,5,1,Store_A,Electronics,6820.2,19,15,19437.57,110146.23,50,Female,Debit Card,3.3
+833,2023-07-09,Sunday,7,1,Store_B,Groceries,965.57,20,10,1931.14,17380.26,36,Female,Cash,3.1
+834,2023-11-05,Sunday,11,1,Store_B,Electronics,12250.67,20,30,66153.62,178859.78,21,Female,Debit Card,1.8
+835,2023-10-18,Wednesday,10,0,Store_B,Clothing,1839.45,16,25,7357.8,22073.4,62,Female,Debit Card,4.4
+836,2023-08-03,Thursday,8,0,Store_C,Toys,1314.22,6,0,0.0,7885.32,47,Male,UPI,1.9
+837,2022-01-04,Tuesday,1,0,Store_B,Furniture,37856.4,7,5,13249.74,251745.06,48,Female,UPI,1.8
+838,2022-07-08,Friday,7,0,Store_A,Sports,445.41,12,0,0.0,5344.92,53,Male,Credit Card,2.2
+839,2022-07-19,Tuesday,7,0,Store_C,Electronics,48777.81,7,5,17072.23,324372.44,36,Male,Credit Card,4.5
+840,2022-06-28,Tuesday,6,0,Store_C,Furniture,15104.77,1,5,755.24,14349.53,34,Male,Cash,4.3
+841,2022-05-21,Saturday,5,1,Store_D,Clothing,1824.24,7,10,1276.97,11492.71,47,Male,Debit Card,4.2
+842,2023-11-08,Wednesday,11,0,Store_B,Books,1329.74,8,0,0.0,10637.92,27,Male,Credit Card,1.8
+843,2023-12-13,Wednesday,12,0,Store_C,Sports,9113.37,12,0,0.0,109360.44,66,Male,Debit Card,4.2
+844,2022-09-11,Sunday,9,1,Store_A,Toys,2631.27,17,20,8946.32,35785.27,49,Male,Cash,4.1
+845,2023-11-11,Saturday,11,1,Store_A,Groceries,1041.8,20,10,1771.06,19064.94,49,Female,Credit Card,2.3
+846,2023-06-23,Friday,6,0,Store_D,Beauty,1973.97,19,15,5625.81,31879.62,58,Male,Credit Card,1.9
+847,2022-07-27,Wednesday,7,0,Store_D,Furniture,32276.1,10,15,48414.15,274346.85,42,Male,Debit Card,2.0
+848,2022-03-28,Monday,3,0,Store_B,Clothing,1616.23,17,10,2747.59,24728.32,32,Male,UPI,3.0
+849,2022-12-11,Sunday,12,1,Store_D,Beauty,1950.07,16,10,2730.1,28471.02,69,Female,Debit Card,2.1
+850,2022-07-03,Sunday,7,1,Store_D,Furniture,21984.37,3,10,6595.31,59357.8,23,Female,Cash,4.1
+851,2022-08-22,Monday,8,0,Store_A,Clothing,542.47,2,20,216.99,867.95,30,Female,Credit Card,3.7
+852,2022-09-14,Wednesday,9,0,Store_C,Toys,652.86,20,5,652.86,12404.34,66,Female,Cash,4.1
+853,2022-10-16,Sunday,10,1,Store_C,Books,1424.14,19,30,8117.6,18941.06,59,Male,UPI,3.6
+854,2022-06-02,Thursday,6,0,Store_D,Furniture,18927.18,7,15,19873.54,112616.72,32,Female,UPI,2.4
+855,2022-03-29,Tuesday,3,0,Store_C,Furniture,34874.64,14,5,24412.25,463832.71,46,Female,Cash,2.5
+856,2023-08-15,Tuesday,8,0,Store_B,Toys,2835.73,1,15,425.36,2410.37,69,Female,Debit Card,1.9
+857,2023-03-12,Sunday,3,1,Store_D,Toys,1045.63,1,20,209.13,836.5,68,Male,Credit Card,1.6
+858,2022-12-05,Monday,12,0,Store_D,Books,385.89,17,0,0.0,6560.13,52,Female,Credit Card,2.9
+859,2023-08-07,Monday,8,0,Store_D,Toys,370.4,4,25,370.4,1111.2,53,Male,Cash,4.3
+860,2023-09-10,Sunday,9,1,Store_D,Electronics,9741.26,3,15,4383.57,24840.21,36,Male,Credit Card,2.2
+861,2023-06-21,Wednesday,6,0,Store_A,Beauty,371.19,17,0,0.0,6310.23,28,Female,UPI,2.6
+862,2022-04-24,Sunday,4,1,Store_B,Books,769.55,3,15,346.3,1962.35,31,Male,Credit Card,2.2
+863,2023-12-28,Thursday,12,0,Store_D,Groceries,1227.23,13,20,2454.46,13499.53,30,Female,Debit Card,1.8
+864,2023-04-02,Sunday,4,1,Store_A,Books,946.79,8,20,1514.86,6059.46,39,Female,UPI,2.9
+865,2022-02-10,Thursday,2,0,Store_A,Toys,1974.27,15,10,2961.41,26652.64,62,Female,UPI,3.5
+866,2022-06-29,Wednesday,6,0,Store_D,Furniture,15186.67,20,25,75933.35,227800.05,45,Female,UPI,4.6
+867,2022-07-07,Thursday,7,0,Store_A,Books,1078.1,2,5,107.81,2048.39,28,Female,Debit Card,3.7
+868,2022-03-10,Thursday,3,0,Store_B,Beauty,1733.42,18,0,0.0,31201.56,41,Male,Cash,3.0
+869,2022-11-30,Wednesday,11,0,Store_D,Beauty,784.63,12,20,1098.48,8317.08,20,Female,Cash,1.3
+870,2023-01-26,Thursday,1,0,Store_C,Books,1298.08,13,0,0.0,16875.04,18,Female,Cash,3.8
+871,2022-05-20,Friday,5,0,Store_C,Beauty,2016.32,3,0,0.0,6048.96,53,Male,UPI,1.6
+872,2022-10-13,Thursday,10,0,Store_B,Groceries,1685.07,20,0,0.0,33701.4,29,Female,Cash,3.1
+873,2023-02-05,Sunday,2,1,Store_B,Clothing,3422.68,1,25,855.67,2567.01,35,Male,UPI,2.4
+874,2022-08-10,Wednesday,8,0,Store_A,Furniture,35922.59,2,30,21553.55,50291.63,58,Male,UPI,3.8
+875,2023-03-31,Friday,3,0,Store_A,Electronics,2908.9,13,30,11344.71,26470.99,30,Male,Debit Card,4.6
+876,2022-07-24,Sunday,7,1,Store_A,Electronics,21373.3,1,10,2137.33,19235.97,70,Male,Cash,1.9
+877,2022-04-09,Saturday,4,1,Store_B,Groceries,135.82,17,0,0.0,2308.94,70,Female,Debit Card,3.2
+878,2022-07-14,Thursday,7,0,Store_B,Books,1414.49,4,5,282.9,5375.06,31,Male,Debit Card,2.3
+879,2022-01-16,Sunday,1,1,Store_D,Sports,476.13,7,15,499.94,2832.97,32,Male,Debit Card,3.6
+880,2023-01-13,Friday,1,0,Store_A,Clothing,4450.21,14,10,6230.29,56072.65,67,Female,Cash,3.9
+881,2023-08-06,Sunday,8,1,Store_B,Toys,2881.2,20,10,5762.4,51861.6,58,Female,Credit Card,2.3
+882,2023-10-13,Friday,10,0,Store_C,Beauty,409.93,1,20,81.99,327.94,55,Female,UPI,3.0
+883,2022-08-27,Saturday,8,1,Store_A,Furniture,2675.86,4,10,1070.34,9633.1,33,Female,Credit Card,3.5
+884,2022-03-03,Thursday,3,0,Store_B,Sports,7631.28,7,5,2670.95,50748.01,42,Male,Cash,2.0
+885,2023-09-05,Tuesday,9,0,Store_D,Sports,2273.73,11,25,6252.76,18758.27,68,Male,UPI,3.6
+886,2022-10-23,Sunday,10,1,Store_A,Furniture,67907.85,11,10,74698.64,672287.71,33,Male,Cash,4.6
+887,2023-11-12,Sunday,11,1,Store_B,Furniture,49036.99,15,20,127496.17,608058.68,38,Male,UPI,3.5
+888,2023-05-19,Friday,5,0,Store_A,Furniture,5116.44,5,5,1279.11,24303.09,26,Male,Credit Card,3.4
+889,2022-07-29,Friday,7,0,Store_B,Clothing,2245.95,15,10,3368.93,30320.32,28,Male,Credit Card,2.7
+890,2023-09-13,Wednesday,9,0,Store_B,Toys,927.52,15,25,3478.2,10434.6,30,Female,UPI,1.3
+891,2023-01-04,Wednesday,1,0,Store_D,Books,334.87,15,15,753.46,4269.59,50,Female,Credit Card,4.3
+892,2023-05-09,Tuesday,5,0,Store_A,Books,698.36,3,30,628.52,1466.56,37,Male,Credit Card,2.0
+893,2023-04-20,Thursday,4,0,Store_C,Beauty,1240.42,18,20,4465.51,17862.05,48,Male,Debit Card,1.5
+894,2023-04-26,Wednesday,4,0,Store_B,Groceries,1836.46,1,0,0.0,1836.46,50,Female,UPI,2.6
+895,2023-03-02,Thursday,3,0,Store_D,Sports,5945.35,10,25,14863.38,44590.12,55,Male,UPI,4.5
+896,2022-05-08,Sunday,5,1,Store_D,Groceries,428.74,14,10,600.24,5402.12,67,Female,UPI,3.5
+897,2023-01-13,Friday,1,0,Store_A,Books,1397.13,8,5,558.85,10618.19,48,Male,Debit Card,3.5
+898,2023-11-24,Friday,11,0,Store_A,Groceries,559.59,18,25,2098.46,7974.16,27,Female,Credit Card,3.4
+899,2022-01-13,Thursday,1,0,Store_A,Clothing,3293.11,13,15,6421.56,36388.87,63,Male,Credit Card,4.5
+900,2022-06-19,Sunday,6,1,Store_D,Toys,2106.33,17,20,7161.52,28646.09,60,Female,Debit Card,3.9
+901,2022-04-02,Saturday,4,1,Store_A,Sports,12269.15,9,25,27605.59,82816.76,31,Female,Debit Card,1.0
+902,2022-06-22,Wednesday,6,0,Store_D,Electronics,5295.1,14,20,14826.28,59305.12,44,Female,UPI,1.7
+903,2023-01-19,Thursday,1,0,Store_B,Groceries,436.14,6,20,523.37,2093.47,25,Female,Credit Card,1.7
+904,2022-03-02,Wednesday,3,0,Store_B,Furniture,21488.8,14,15,45126.48,255716.72,58,Male,Credit Card,1.3
+905,2022-03-29,Tuesday,3,0,Store_D,Clothing,1528.46,11,0,0.0,16813.06,55,Male,UPI,2.9
+906,2022-04-14,Thursday,4,0,Store_A,Electronics,13671.0,1,25,3417.75,10253.25,55,Male,Cash,1.8
+907,2022-01-08,Saturday,1,1,Store_D,Toys,2803.17,16,30,13455.22,31395.5,39,Female,Debit Card,2.5
+908,2022-12-18,Sunday,12,1,Store_C,Furniture,75338.29,15,15,146909.67,983164.68,57,Male,Debit Card,4.5
+909,2022-01-04,Tuesday,1,0,Store_D,Books,1115.31,5,0,0.0,5576.55,56,Male,Debit Card,4.8
+910,2022-09-12,Monday,9,0,Store_C,Beauty,2530.65,16,20,8098.08,32392.32,44,Male,Cash,4.9
+911,2022-11-26,Saturday,11,1,Store_A,Sports,13139.49,13,25,36133.6,134679.77,46,Male,UPI,2.6
+912,2022-12-23,Friday,12,0,Store_D,Beauty,3949.46,6,25,3949.46,19747.3,42,Female,Credit Card,3.8
+913,2022-05-11,Wednesday,5,0,Store_D,Clothing,1646.47,18,30,8890.94,20745.52,47,Male,UPI,4.8
+914,2023-05-09,Tuesday,5,0,Store_B,Furniture,17719.62,3,0,0.0,53158.86,45,Male,Credit Card,4.7
+915,2022-12-01,Thursday,12,0,Store_D,Toys,739.09,14,25,1662.95,8684.31,48,Male,Credit Card,4.7
+916,2022-04-03,Sunday,4,1,Store_C,Furniture,74610.62,20,0,0.0,1492212.4,59,Female,UPI,4.6
+917,2023-01-26,Thursday,1,0,Store_D,Furniture,18660.52,4,10,7464.21,67177.87,23,Male,Cash,2.4
+918,2023-08-30,Wednesday,8,0,Store_B,Clothing,2949.63,5,30,4424.45,10323.7,38,Female,Cash,2.2
+919,2023-08-28,Monday,8,0,Store_B,Books,1471.79,11,30,4856.91,11332.78,41,Male,Credit Card,1.4
+920,2022-01-10,Monday,1,0,Store_D,Sports,2427.1,10,30,7281.3,16989.7,32,Female,UPI,1.6
+921,2022-10-18,Tuesday,10,0,Store_B,Electronics,30144.58,10,20,60289.16,241156.64,62,Male,Debit Card,5.0
+922,2023-12-25,Monday,12,0,Store_D,Furniture,40107.02,16,0,0.0,641712.32,69,Female,Credit Card,4.3
+923,2022-08-19,Friday,8,0,Store_A,Groceries,1720.72,13,10,2236.94,20132.42,70,Male,Cash,3.2
+924,2022-12-12,Monday,12,0,Store_D,Beauty,3962.71,16,15,7727.28,55676.08,22,Female,Debit Card,3.8
+925,2023-12-19,Tuesday,12,0,Store_D,Clothing,828.32,20,30,4721.42,11844.98,69,Male,Debit Card,2.8
+926,2023-08-15,Tuesday,8,0,Store_B,Beauty,2829.43,10,5,1414.71,26879.59,31,Male,Credit Card,3.9
+927,2022-01-10,Monday,1,0,Store_C,Clothing,3455.93,5,15,2591.95,14687.7,45,Male,Cash,1.4
+928,2023-05-01,Monday,5,0,Store_B,Electronics,6308.67,17,25,26811.85,80435.54,39,Female,Credit Card,3.5
+929,2023-02-18,Saturday,2,1,Store_B,Electronics,6380.73,13,15,12442.42,70507.07,37,Male,UPI,4.1
+930,2023-11-18,Saturday,11,1,Store_A,Beauty,3479.85,15,10,4523.8,47673.95,58,Female,Debit Card,1.0
+931,2022-03-26,Saturday,3,1,Store_A,Beauty,2619.43,17,5,2226.52,42303.79,19,Female,Debit Card,3.8
+932,2022-04-07,Thursday,4,0,Store_B,Books,777.87,14,10,1089.02,9801.16,54,Male,Cash,2.3
+933,2024-01-01,Monday,1,0,Store_B,Books,1238.02,1,15,185.7,1052.32,53,Female,Cash,3.1
+934,2023-08-22,Tuesday,8,0,Store_A,Furniture,77288.8,4,5,15457.76,293697.44,56,Male,Cash,3.2
+935,2022-11-18,Friday,11,0,Store_A,Electronics,6876.39,9,25,12033.68,49853.83,28,Male,Debit Card,4.4
+936,2022-03-28,Monday,3,0,Store_A,Toys,1154.32,18,5,1038.89,19738.87,45,Male,Credit Card,2.2
+937,2023-06-16,Friday,6,0,Store_C,Beauty,688.44,16,25,2753.76,8261.28,38,Female,Credit Card,3.8
+938,2023-11-10,Friday,11,0,Store_A,Furniture,3901.98,9,10,1950.99,33166.83,31,Male,Credit Card,3.4
+939,2022-05-12,Thursday,5,0,Store_D,Clothing,2839.27,9,15,3833.01,21720.42,59,Male,UPI,2.8
+940,2022-09-18,Sunday,9,1,Store_D,Groceries,1095.01,3,25,821.26,2463.77,64,Female,Credit Card,3.9
+941,2023-08-01,Tuesday,8,0,Store_B,Books,1250.19,11,30,4125.63,9626.46,45,Female,Cash,4.9
+942,2022-09-11,Sunday,9,1,Store_A,Toys,461.4,4,25,461.4,1384.2,53,Female,Cash,2.3
+943,2022-04-02,Saturday,4,1,Store_C,Sports,11737.64,5,30,17606.46,41081.74,69,Male,Debit Card,1.0
+944,2023-01-22,Sunday,1,1,Store_B,Books,1432.5,4,5,286.5,5443.5,51,Female,UPI,1.4
+945,2022-12-24,Saturday,12,1,Store_C,Toys,1861.65,7,5,186.16,12845.39,38,Female,Credit Card,2.4
+946,2023-05-04,Thursday,5,0,Store_B,Toys,127.54,17,25,542.05,1626.13,27,Male,Credit Card,2.5
+947,2022-10-01,Saturday,10,1,Store_A,Sports,10700.29,8,25,21400.58,64201.74,56,Female,UPI,1.7
+948,2022-12-29,Thursday,12,0,Store_D,Toys,899.89,16,20,2519.69,11878.55,63,Male,Debit Card,3.5
+949,2022-11-09,Wednesday,11,0,Store_D,Sports,12725.11,5,0,0.0,63625.55,64,Male,Cash,1.7
+950,2022-03-28,Monday,3,0,Store_C,Beauty,3262.14,1,15,489.32,2772.82,61,Male,UPI,3.0
+951,2023-12-03,Sunday,12,1,Store_A,Books,119.46,11,30,250.87,1063.19,65,Male,UPI,3.8
+952,2022-09-08,Thursday,9,0,Store_A,Beauty,3863.89,17,5,3284.31,62401.82,29,Male,Debit Card,4.4
+953,2023-06-11,Sunday,6,1,Store_C,Electronics,21424.75,13,5,13926.09,264595.66,41,Male,Debit Card,4.7
+954,2022-09-13,Tuesday,9,0,Store_A,Toys,967.62,10,10,967.62,8708.58,31,Male,UPI,1.9
+955,2022-11-09,Wednesday,11,0,Store_A,Beauty,3586.1,20,0,0.0,71722.0,40,Male,UPI,2.3
+956,2022-04-20,Wednesday,4,0,Store_A,Sports,13385.89,6,15,12047.3,68268.04,40,Male,Cash,2.7
+957,2022-07-22,Friday,7,0,Store_A,Groceries,850.9,16,0,0.0,13614.4,27,Female,Credit Card,2.9
+958,2023-01-19,Thursday,1,0,Store_C,Sports,6596.62,6,20,7915.94,31663.78,69,Female,Cash,5.0
+959,2023-11-04,Saturday,11,1,Store_D,Groceries,322.76,16,0,0.0,5164.16,40,Male,Cash,1.8
+960,2022-05-17,Tuesday,5,0,Store_D,Books,1141.49,2,5,114.15,2168.83,60,Male,UPI,4.8
+961,2022-09-30,Friday,9,0,Store_A,Books,784.69,16,30,3766.51,8788.53,61,Male,Debit Card,4.0
+962,2023-02-14,Tuesday,2,0,Store_D,Groceries,263.98,4,30,316.78,739.14,19,Male,Credit Card,2.4
+963,2022-01-14,Friday,1,0,Store_B,Electronics,34076.36,11,15,56225.99,318613.97,56,Male,UPI,2.9
+964,2022-10-16,Sunday,10,1,Store_D,Clothing,3852.32,8,20,6163.71,24654.85,27,Male,Credit Card,2.1
+965,2022-04-28,Thursday,4,0,Store_C,Furniture,53640.11,14,5,37548.08,713413.46,48,Male,Credit Card,1.8
+966,2023-08-29,Tuesday,8,0,Store_B,Furniture,10516.43,13,0,0.0,136713.59,35,Male,Credit Card,2.7
+967,2023-09-24,Sunday,9,1,Store_B,Clothing,4348.88,13,15,8480.32,48055.12,51,Female,Credit Card,1.9
+968,2023-03-13,Monday,3,0,Store_D,Electronics,25738.25,2,10,5147.65,46328.85,25,Female,Debit Card,2.1
+969,2022-12-26,Monday,12,0,Store_D,Furniture,26267.43,6,5,2626.74,154977.84,20,Male,Cash,3.6
+970,2022-08-06,Saturday,8,1,Store_C,Beauty,1228.61,20,0,0.0,24572.2,45,Male,Debit Card,4.8
+971,2023-01-08,Sunday,1,1,Store_C,Toys,423.43,1,25,105.86,317.57,53,Male,Debit Card,2.4
+972,2023-01-06,Friday,1,0,Store_C,Furniture,52369.62,7,20,73317.47,293269.87,42,Male,Cash,1.5
+973,2023-09-09,Saturday,9,1,Store_A,Electronics,29534.79,7,5,10337.18,196406.35,63,Female,Cash,1.3
+974,2023-07-14,Friday,7,0,Store_C,Toys,2203.52,7,20,3084.93,12339.71,64,Male,Cash,1.5
+975,2023-03-05,Sunday,3,1,Store_C,Sports,13455.22,15,25,50457.07,151371.23,63,Male,UPI,1.3
+976,2023-03-06,Monday,3,0,Store_A,Groceries,1218.35,5,10,609.17,5482.58,20,Male,Credit Card,4.0
+977,2023-02-12,Sunday,2,1,Store_D,Clothing,994.49,17,15,2535.95,14370.38,53,Female,UPI,3.4
+978,2022-07-31,Sunday,7,1,Store_B,Electronics,8420.15,7,20,11788.21,47152.84,62,Male,UPI,3.0
+979,2023-06-22,Thursday,6,0,Store_C,Toys,2572.18,10,25,6430.45,19291.35,35,Male,Credit Card,1.9
+980,2023-07-01,Saturday,7,1,Store_B,Toys,213.36,5,10,106.68,960.12,26,Female,Cash,3.6
+981,2022-09-12,Monday,9,0,Store_B,Clothing,206.72,12,25,620.16,1860.48,56,Female,Debit Card,1.3
+982,2023-12-24,Sunday,12,1,Store_C,Groceries,846.27,20,10,1692.54,15232.86,38,Male,Cash,4.3
+983,2022-10-14,Friday,10,0,Store_B,Toys,2917.65,18,25,13129.42,39388.28,67,Male,UPI,4.8
+984,2022-09-21,Wednesday,9,0,Store_B,Beauty,999.46,9,5,449.76,8545.38,55,Female,Credit Card,2.8
+985,2023-03-21,Tuesday,3,0,Store_C,Groceries,1809.23,3,15,814.15,4613.54,29,Female,Credit Card,4.3
+986,2022-06-30,Thursday,6,0,Store_B,Beauty,3781.92,6,25,5672.88,17018.64,36,Male,Debit Card,1.7
+987,2022-07-01,Friday,7,0,Store_D,Furniture,6486.88,3,15,2919.1,16541.54,33,Female,UPI,1.4
+988,2023-06-24,Saturday,6,1,Store_B,Electronics,30363.03,13,15,59207.91,335511.48,19,Male,Cash,4.1
+989,2023-10-22,Sunday,10,1,Store_A,Groceries,534.27,3,10,160.28,1442.53,27,Male,Cash,4.8
+990,2022-04-19,Tuesday,4,0,Store_C,Clothing,1171.14,16,30,5621.47,13116.77,54,Female,Credit Card,2.2
+991,2023-05-06,Saturday,5,1,Store_B,Furniture,5414.17,9,25,12181.88,36545.65,52,Male,Cash,4.3
+992,2022-04-16,Saturday,4,1,Store_C,Clothing,2655.4,14,5,1858.78,35316.82,18,Male,Cash,1.9
+993,2023-01-30,Monday,1,0,Store_B,Sports,9933.86,8,25,19867.72,59603.16,42,Male,UPI,1.7
+994,2022-04-23,Saturday,4,1,Store_B,Clothing,4791.04,10,10,4791.04,43119.36,22,Female,Cash,2.4
+995,2022-03-28,Monday,3,0,Store_A,Groceries,397.23,17,10,675.29,6077.62,56,Male,UPI,1.6
+996,2023-11-15,Wednesday,11,0,Store_C,Toys,1110.32,6,10,444.13,6217.79,49,Female,Debit Card,4.2
+997,2022-01-03,Monday,1,0,Store_B,Groceries,674.5,13,15,1315.28,7453.22,64,Female,Cash,1.5
+998,2023-03-14,Tuesday,3,0,Store_C,Groceries,226.37,5,5,56.59,1075.26,67,Female,Debit Card,2.3
+999,2023-03-11,Saturday,3,1,Store_D,Books,942.44,11,5,518.34,9848.5,69,Male,UPI,2.7
+1000,2023-05-25,Thursday,5,0,Store_D,Furniture,31385.55,19,25,149081.36,447244.09,44,Male,Cash,1.9
