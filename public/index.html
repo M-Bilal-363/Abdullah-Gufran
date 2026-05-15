@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FreshCart Grocery Store</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>🛒 FreshCart Grocery Store</h1>
+      <div class="header-actions">
+        <span id="userBadge">Guest</span>
+        <button id="logoutBtn" class="hidden">Logout</button>
+      </div>
+    </header>
+
+    <main>
+      <section class="card" id="authSection">
+        <h2>Account</h2>
+        <div class="auth-grid">
+          <form id="registerForm">
+            <h3>Register</h3>
+            <input name="name" placeholder="Name" required />
+            <input name="email" placeholder="Email" type="email" required />
+            <input name="password" placeholder="Password" type="password" required />
+            <button type="submit">Register</button>
+          </form>
+
+          <form id="loginForm">
+            <h3>Login</h3>
+            <input name="email" placeholder="Email" type="email" required />
+            <input name="password" placeholder="Password" type="password" required />
+            <button type="submit">Login</button>
+            <p class="hint">Admin: admin@grocery.local / admin123</p>
+          </form>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>Products</h2>
+        <div class="filters">
+          <input id="searchInput" placeholder="Search products..." />
+          <button id="refreshProductsBtn">Refresh</button>
+        </div>
+        <div id="products" class="grid"></div>
+      </section>
+
+      <section class="card" id="cartSection">
+        <h2>Your Cart</h2>
+        <div id="cart">Login to manage your cart.</div>
+        <button id="checkoutBtn" class="hidden">Checkout</button>
+      </section>
+
+      <section class="card" id="ordersSection">
+        <h2>Your Orders</h2>
+        <div id="orders">Login to see your orders.</div>
+      </section>
+
+      <section class="card hidden" id="adminSection">
+        <h2>Admin Product Management</h2>
+        <form id="addProductForm" class="admin-form">
+          <input name="name" placeholder="Product name" required />
+          <input name="price" placeholder="Price" type="number" min="0.01" step="0.01" required />
+          <input name="category" placeholder="Category" required />
+          <input name="stock" placeholder="Stock" type="number" min="0" step="1" required />
+          <input name="image" placeholder="Emoji icon (optional)" />
+          <button type="submit">Add Product</button>
+        </form>
+      </section>
+    </main>
+
+    <div id="toast"></div>
+    <script src="/app.js"></script>
+  </body>
+</html>

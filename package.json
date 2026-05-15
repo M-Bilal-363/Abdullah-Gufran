@@ -1,0 +1,17 @@
+{
+  "name": "abdullah-gufran",
+  "version": "1.0.0",
+  "description": "Full-stack grocery store ecommerce web app",
+  "main": "server.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
