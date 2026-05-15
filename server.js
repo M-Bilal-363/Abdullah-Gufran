@@ -1,4 +1,5 @@
 const express = require('express');
+const { rateLimit } = require('express-rate-limit');
 const path = require('path');
 const fs = require('fs');
 const crypto = require('crypto');
@@ -100,27 +101,21 @@ function adminRequired(req, res, next) {
   next();
 }
 
-function createRateLimiter({ windowMs, max }) {
-  const bucket = new Map();
+const authRateLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000,
+  limit: 30,
+  standardHeaders: true,
+  legacyHeaders: false,
+  message: { error: 'Too many requests. Please try again later.' },
+});
 
-  return (req, res, next) => {
-    const ip = req.ip || req.socket.remoteAddress || 'unknown';
-    const now = Date.now();
-    const windowStart = now - windowMs;
-    const requests = (bucket.get(ip) || []).filter((time) => time > windowStart);
-
-    if (requests.length >= max) {
-      return res.status(429).json({ error: 'Too many requests. Please try again later.' });
-    }
-
-    requests.push(now);
-    bucket.set(ip, requests);
-    next();
-  };
-}
-
-const authRateLimiter = createRateLimiter({ windowMs: 15 * 60 * 1000, max: 30 });
-const pageRateLimiter = createRateLimiter({ windowMs: 60 * 1000, max: 300 });
+const pageRateLimiter = rateLimit({
+  windowMs: 60 * 1000,
+  limit: 300,
+  standardHeaders: true,
+  legacyHeaders: false,
+  message: { error: 'Too many requests. Please try again later.' },
+});
 app.use(pageRateLimiter);
 app.use('/api/auth', authRateLimiter);
 
