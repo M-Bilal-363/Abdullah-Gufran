@@ -121,6 +121,8 @@ function createRateLimiter({ windowMs, max }) {
 
 const authRateLimiter = createRateLimiter({ windowMs: 15 * 60 * 1000, max: 30 });
 const pageRateLimiter = createRateLimiter({ windowMs: 60 * 1000, max: 300 });
+app.use(pageRateLimiter);
+app.use('/api/auth', authRateLimiter);
 
 function getCartWithTotals(userId) {
   const cartItems = data.carts[userId] || [];
@@ -144,7 +146,7 @@ function getCartWithTotals(userId) {
   return { items: expandedItems, total };
 }
 
-app.post('/api/auth/register', authRateLimiter, (req, res) => {
+app.post('/api/auth/register', (req, res) => {
   const { name, email, password } = req.body;
   if (!name || !email || !password) {
     return res.status(400).json({ error: 'Name, email, and password are required' });
@@ -170,7 +172,7 @@ app.post('/api/auth/register', authRateLimiter, (req, res) => {
   res.status(201).json({ message: 'Registered successfully' });
 });
 
-app.post('/api/auth/login', authRateLimiter, (req, res) => {
+app.post('/api/auth/login', (req, res) => {
   const { email, password } = req.body;
   if (!email || !password) {
     return res.status(400).json({ error: 'Email and password are required' });
@@ -406,7 +408,7 @@ app.get('/health', (req, res) => {
   res.json({ status: 'ok' });
 });
 
-app.use(pageRateLimiter, (req, res) => {
+app.use((req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
